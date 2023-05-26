@@ -1,0 +1,96 @@
+body{
+    background: url(img/bg.jpg);
+    background-size: cover ; 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.card{
+    border-radius: 40px;
+}
+.time,
+.releaseTime,
+.imdb{
+    margin-top: 5px;
+}
+.informations{
+    text-align: center;
+}
+.watchTrailer{
+    text-align: center;
+    margin: 20px;
+}
+.otherMovie{
+    text-align: center;
+    margin: 20px;
+}
+.buttonContainer {
+    display: flex;
+    justify-content: center; /* Yatayda ortala */
+}
+.card-body{
+    padding: 0;
+}
+.card-title{
+    font-family: 'Kanit', sans-serif;
+    font-size: 35px;
+    margin: 25px;
+}
+.card-text{
+    font-family: 'Kanit', sans-serif;
+    font-size: 22px;
+    margin: 10px;
+}
+.informations{
+    font-family: 'Kanit', sans-serif;
+    font-size: 20px;
+    margin: 30px;
+}
+.buttonContainer {
+    font-family: 'Kanit', sans-serif;
+    font-size: 20px;
+    margin: 10px;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.btn{
+    padding: 12px;
+    border-radius: 15px;
+    margin-top: 10px;
+}
+
+#mainContent {
+    transition: opacity 0.5s ease;
+  }
+  
+  .hidden {
+    opacity: 0;
+  }
+
+.centered-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  .start-buton {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  #mainContent {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: opacity 0.5s ease;
+  }
+
+#start{
+    background-color: #E55807 !important;
+    font-family: 'Kanit', sans-serif;
+    font-size: 30px;
+}  
