@@ -2,6 +2,8 @@ var card = document.getElementById("card");
 var changeButton = document.getElementById("changeButton");
 var startButton = document.getElementById("startButton");
 
+
+
 var jsonDosyaURL = 'newDosya3.json';
 var jsonVerisi = null;
 
@@ -38,10 +40,21 @@ startButton.addEventListener("click", function() {
   }
 });
 
-changeButton.addEventListener("click", function() { 
+var lastRecommendedMovie = null;
+
+changeButton.addEventListener("click", function() {
   if (jsonVerisi) {
-    var randomIndex = Math.floor(Math.random() * jsonVerisi.length);
-    var randomMovie = jsonVerisi[randomIndex];
+    var randomIndex;
+    var randomMovie;
+
+    // Daha önce önerilen filmle aynı olmayan yeni bir film seçin
+    do {
+      randomIndex = Math.floor(Math.random() * jsonVerisi.length);
+      randomMovie = jsonVerisi[randomIndex];
+    } while (randomMovie === lastRecommendedMovie);
+
+    // Yeni önerilen filmin bilgilerini atayın
+    lastRecommendedMovie = randomMovie;
 
     var cardTitle = card.querySelector(".card-title");
     var cardText = card.querySelector(".card-text");
