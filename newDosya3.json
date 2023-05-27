@@ -1,5 +1,2057 @@
 [
     {
+        "Name": "Esaretin Bedeli",
+        "Description": "Over the course of several years, two convicts form a friendship, seeking consolation and, eventually, redemption through basic compassion.",
+        "ReleaseDate": "1994",
+        "Time": "2h 22m",
+        "imdbb": "9.3",
+        "img": "https://m.media-amazon.com/images/M/MV5BNDE3ODcxYzMtY2YzZC00NmNlLWJiNDMtZDViZWM2MzIxZDYwXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/7BG-BpvkYB8"
+    },
+    {
+        "Name": "Baba",
+        "Description": "Don Vito Corleone, head of a mafia family, decides to hand over his empire to his youngest son Michael. However, his decision unintentionally puts the lives of his loved ones in grave danger.",
+        "ReleaseDate": "1972",
+        "Time": "2h 55m",
+        "imdbb": "9.2",
+        "img": "https://m.media-amazon.com/images/M/MV5BNjFiZjQ4ZTktMDllYS00M2UxLWJkY2MtOTk3NGZjZTg2MTlhXkEyXkFqcGdeQXVyOTU2NDAzNDE@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/PYBjXSWZ62w"
+    },
+    {
+        "Name": "Kara Şövalye",
+        "Description": "When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice.",
+        "ReleaseDate": "2008",
+        "Time": "2h 32m",
+        "imdbb": "9.0",
+        "img": "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/xl2NZ0Bt7yQ"
+    },
+    {
+        "Name": "Baba 2",
+        "Description": "The early life and career of Vito Corleone in 1920s New York City is portrayed, while his son, Michael, expands and tightens his grip on the family crime syndicate.",
+        "ReleaseDate": "1974",
+        "Time": "3h 22m",
+        "imdbb": "9.0",
+        "img": "https://m.media-amazon.com/images/M/MV5BMWMwMGQzZTItY2JlNC00OWZiLWIyMDctNDk2ZDQ2YjRjMWQ0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/OA1ij0alE0w"
+    },
+    {
+        "Name": "12 Öfkeli Adam",
+        "Description": "The jury in a New York City murder trial is frustrated by a single member whose skeptical caution forces them to more carefully consider the evidence before jumping to a hasty verdict.",
+        "ReleaseDate": "1957",
+        "Time": "1h 36m",
+        "imdbb": "9.0",
+        "img": "https://m.media-amazon.com/images/M/MV5BMWU4N2FjNzYtNTVkNC00NzQ0LTg0MjAtYTJlMjFhNGUxZDFmXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/shii_DRgyqQ"
+    },
+    {
+        "Name": "Schindler'in Listesi",
+        "Description": "In German-occupied Poland during World War II, industrialist Oskar Schindler gradually becomes concerned for his Jewish workforce after witnessing their persecution by the Nazis.",
+        "ReleaseDate": "1993",
+        "Time": "3h 15m",
+        "imdbb": "9.0",
+        "img": "https://m.media-amazon.com/images/M/MV5BNDE4OTMxMTctNmRhYy00NWE2LTg3YzItYTk3M2UwOTU5Njg4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/VZk3gqBhWu4"
+    },
+    {
+        "Name": "Yüzüklerin Efendisi: Kralın Dönüşü",
+        "Description": "Gandalf and Aragorn lead the World of Men against Sauron's army to draw his gaze from Frodo and Sam as they approach Mount Doom with the One Ring.",
+        "ReleaseDate": "2003",
+        "Time": "3h 21m",
+        "imdbb": "9.0",
+        "img": "https://m.media-amazon.com/images/M/MV5BNzA5ZDNlZWMtM2NhNS00NDJjLTk4NDItYTRmY2EwMWZlMTY3XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/mO1yXwRfxGk"
+    },
+    {
+        "Name": "Ucuz Roman",
+        "Description": "The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
+        "ReleaseDate": "1994",
+        "Time": "2h 34m",
+        "imdbb": "8.9",
+        "img": "https://m.media-amazon.com/images/M/MV5BNGNhMDIzZTUtNTBlZi00MTRlLWFjM2ItYzViMjE3YzI5MjljXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/MNy5tzNXJTA"
+    },
+    {
+        "Name": "Yüzüklerin Efendisi: Yüzük Kardeşliği",
+        "Description": "A meek Hobbit from the Shire and eight companions set out on a journey to destroy the powerful One Ring and save Middle-earth from the Dark Lord Sauron.",
+        "ReleaseDate": "2001",
+        "Time": "2h 58m",
+        "imdbb": "8.8",
+        "img": "https://m.media-amazon.com/images/M/MV5BZDcyNzRkNWEtYzUwMS00Mzc4LWFkNjMtNDQ0ZDQzMmFiY2E0XkEyXkFqcGdeQXVyMzI3MDY1MTg@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/USNqsrW5DrQ"
+    },
+    {
+        "Name": "İyi, Kötü ve Çirkin",
+        "Description": "A bounty hunting scam joins two men in an uneasy alliance against a third in a race to find a fortune in gold buried in a remote cemetery.",
+        "ReleaseDate": "1966",
+        "Time": "2h 41m",
+        "imdbb": "8.8",
+        "img": "https://m.media-amazon.com/images/M/MV5BNjJlYmNkZGItM2NhYy00MjlmLTk5NmQtNjg1NmM2ODU4OTMwXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/o0XhFQGOwxM"
+    },
+    {
+        "Name": "Forrest Gump",
+        "Description": "The presidencies of Kennedy and Johnson, the Vietnam War, the Watergate scandal and other historical events unfold from the perspective of an Alabama man with an IQ of 75, whose only desire is to be reunited with his childhood sweetheart.",
+        "ReleaseDate": "1994",
+        "Time": "2h 22m",
+        "imdbb": "8.8",
+        "img": "https://m.media-amazon.com/images/M/MV5BNWIwODRlZTUtY2U3ZS00Yzg1LWJhNzYtMmZiYmEyNmU1NjMzXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/bLvqoHBptjg"
+    },
+    {
+        "Name": "Dövüş Kulübü",
+        "Description": "An insomniac office worker and a devil-may-care soap maker form an underground fight club that evolves into much more.",
+        "ReleaseDate": "1999",
+        "Time": "2h 19m",
+        "imdbb": "8.8",
+        "img": "https://m.media-amazon.com/images/M/MV5BNDIzNDU0YzEtYzE5Ni00ZjlkLTk5ZjgtNjM3NWE4YzA3Nzk3XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/SHH9UZlKid0"
+    },
+    {
+        "Name": "Yüzüklerin Efendisi: İki Kule",
+        "Description": "While Frodo and Sam edge closer to Mordor with the help of the shifty Gollum, the divided fellowship makes a stand against Sauron's new ally, Saruman, and his hordes of Isengard.",
+        "ReleaseDate": "2002",
+        "Time": "2h 59m",
+        "imdbb": "8.8",
+        "img": "https://m.media-amazon.com/images/M/MV5BZGMxZTdjZmYtMmE2Ni00ZTdkLWI5NTgtNjlmMjBiNzU2MmI5XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/RlZKjaHsLO0"
+    },
+    {
+        "Name": "Başlangıç",
+        "Description": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O., but his tragic past may doom the project and his team to disaster.",
+        "ReleaseDate": "2010",
+        "Time": "2h 28m",
+        "imdbb": "8.8",
+        "img": "https://m.media-amazon.com/images/M/MV5BMjBhZDFmNDMtODUwZC00OWYwLTk5NmItZDA1YmNmMTdlOTc3XkEyXkFqcGdeQXVyOTgxMDMxNTc@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/E-wMep9G32A"
+    },
+    {
+        "Name": "Star Wars: Bölüm V - İmparator",
+        "Description": "After the Rebels are overpowered by the Empire, Luke Skywalker begins his Jedi training with Yoda, while his friends are pursued across the galaxy by Darth Vader and bounty hunter Boba Fett.",
+        "ReleaseDate": "1980",
+        "Time": "2h 4m",
+        "imdbb": "8.7",
+        "img": "https://m.media-amazon.com/images/M/MV5BMTU3OTEyYTYtYjNlMi00ZWIyLWJhYzUtOTQ4OWZkYTA5N2I5XkEyXkFqcGdeQXVyOTU2NDAzNDE@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/srLeolYjHKw"
+    },
+    {
+        "Name": "Matrix",
+        "Description": "When a beautiful stranger leads computer hacker Neo to a forbidding underworld, he discovers the shocking truth--the life he knows is the elaborate deception of an evil cyber-intelligence.",
+        "ReleaseDate": "1999",
+        "Time": "2h 16m",
+        "imdbb": "8.7",
+        "img": "https://m.media-amazon.com/images/M/MV5BNzQzOTk3OTAtNDQ0Zi00ZTVkLWI0MTEtMDllZjNkYzNjNTc4L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/9ix7TUGVYIo"
+    },
+    {
+        "Name": "Sıkı Dostlar",
+        "Description": "Follows the personal and professional lives of six twenty to thirty year-old friends living in the Manhattan borough of New York City.",
+        "ReleaseDate": "No information",
+        "Time": "7+",
+        "imdbb": "8.9",
+        "img": "https://m.media-amazon.com/images/M/MV5BNDVkYjU0MzctMWRmZi00NTkxLTgwZWEtOWVhYjZlYjllYmU4XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/MI1kCNycnVw"
+    },
+    {
+        "Name": "Guguk Kuşu",
+        "Description": "In the Fall of 1963, a Korean War veteran and criminal pleads insanity and is admitted to a mental institution, where he rallies up the scared patients against the tyrannical nurse.",
+        "ReleaseDate": "1975",
+        "Time": "2h 13m",
+        "imdbb": "8.7",
+        "img": "https://m.media-amazon.com/images/M/MV5BZjA0OWVhOTAtYWQxNi00YzNhLWI4ZjYtNjFjZTEyYjJlNDVlL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/Tgim0dflg0o"
+    },
+    {
+        "Name": "Yedi",
+        "Description": "Two detectives, a rookie and a veteran, hunt a serial killer who uses the seven deadly sins as his motives.",
+        "ReleaseDate": "1995",
+        "Time": "2h 7m",
+        "imdbb": "8.6",
+        "img": "https://m.media-amazon.com/images/M/MV5BOTUwODM5MTctZjczMi00OTk4LTg3NWUtNmVhMTAzNTNjYjcyXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/aKd27mpHlbQ"
+    },
+    {
+        "Name": "Şahane Hayat",
+        "Description": "An angel is sent from Heaven to help a desperately frustrated businessman by showing him what life would have been like if he had never existed.",
+        "ReleaseDate": "1946",
+        "Time": "2h 10m",
+        "imdbb": "8.6",
+        "img": "https://m.media-amazon.com/images/M/MV5BZjc4NDZhZWMtNGEzYS00ZWU2LThlM2ItNTA0YzQ0OTExMTE2XkEyXkFqcGdeQXVyNjUwMzI2NzU@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/dqWYC7KUvw4"
+    },
+    {
+        "Name": "Yedi Samuray: Kanlı Pirinç",
+        "Description": "Farmers from a village exploited by bandits hire a veteran samurai for protection, who gathers six other samurai to join him.",
+        "ReleaseDate": "1954",
+        "Time": "3h 27m",
+        "imdbb": "8.6",
+        "img": "https://m.media-amazon.com/images/M/MV5BNWQ3OTM4ZGItMWEwZi00MjI5LWI3YzgtNTYwNWRkNmIzMGI5XkEyXkFqcGdeQXVyNDY2MTk1ODk@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/wJ1TOratCTo"
+    },
+    {
+        "Name": "Kuzuların Sessizliği",
+        "Description": "A young F.B.I. cadet must receive the help of an incarcerated and manipulative cannibal killer to help catch another serial killer, a madman who skins his victims.",
+        "ReleaseDate": "1991",
+        "Time": "1h 58m",
+        "imdbb": "8.6",
+        "img": "https://m.media-amazon.com/images/M/MV5BNjNhZTk0ZmEtNjJhMi00YzFlLWE1MmEtYzM1M2ZmMGMwMTU4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/SGR05ypBMmo"
+    },
+    {
+        "Name": "Er Ryan'ı Kurtarmak",
+        "Description": "Following the Normandy Landings, a group of U.S. soldiers go behind enemy lines to retrieve a paratrooper whose brothers have been killed in action.",
+        "ReleaseDate": "1998",
+        "Time": "2h 49m",
+        "imdbb": "8.6",
+        "img": "https://m.media-amazon.com/images/M/MV5BZjExNDRmZDUtMjNmMC00ZmZhLTgxYzAtNGMzYzY2ZWM1MDk0XkEyXkFqcGdeQXVyMjI0NTA4NzA@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/S1Qj_AVu2pA"
+    },
+    {
+        "Name": "Tanrı Kent",
+        "Description": "In the slums of Rio, two kids' paths diverge as one struggles to become a photographer and the other a kingpin.",
+        "ReleaseDate": "2002",
+        "Time": "2h 10m",
+        "imdbb": "8.6",
+        "img": "https://m.media-amazon.com/images/M/MV5BOTMwYjc5ZmItYTFjZC00ZGQ3LTlkNTMtMjZiNTZlMWQzNzI5XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/qlfRCxB3Ifk"
+    },
+    {
+        "Name": "Yıldızlararası",
+        "Description": "When Earth becomes uninhabitable in the future, a farmer and ex-NASA pilot, Joseph Cooper, is tasked to pilot a spacecraft, along with a team of researchers, to find a new planet for humans.",
+        "ReleaseDate": "2014",
+        "Time": "2h 49m",
+        "imdbb": "8.7",
+        "img": "https://m.media-amazon.com/images/M/MV5BMjJmM2RkZjUtYzk2OC00NzczLWI0ZWMtZjU1MDg2MmNiZjc4XkEyXkFqcGdeQXVyOTgxMDMxNTc@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/vVJeYMRam0o"
+    },
+    {
+        "Name": "Hayat Güzeldir",
+        "Description": "When an open-minded Jewish waiter and his son become victims of the Holocaust, he uses a perfect mixture of will, humor and imagination to protect his son from the dangers around their camp.",
+        "ReleaseDate": "1997",
+        "Time": "1h 56m",
+        "imdbb": "8.6",
+        "img": "https://m.media-amazon.com/images/M/MV5BYmJmM2Q4NmMtYThmNC00ZjRlLWEyZmItZTIwOTBlZDQ3NTQ1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/Cq2IQvTjH0g"
+    },
+    {
+        "Name": "Yeşil Yol",
+        "Description": "A tale set on death row in a Southern jail, where gentle giant John possesses the mysterious power to heal people's ailments. When the lead guard, Paul, recognizes John's gift, he tries to help stave off the condemned man's execution.",
+        "ReleaseDate": "1999",
+        "Time": "3h 9m",
+        "imdbb": "8.6",
+        "img": "https://m.media-amazon.com/images/M/MV5BMTUxMzQyNjA5MF5BMl5BanBnXkFtZTYwOTU2NTY3._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/hfa5F-kRTq4"
+    },
+    {
+        "Name": "Star Wars: Bölüm IV - Yeni Bir Umut",
+        "Description": "Luke Skywalker joins forces with a Jedi Knight, a cocky pilot, a Wookiee and two droids to save the galaxy from the Empire's world-destroying battle station, while also attempting to rescue Princess Leia from the mysterious Darth Vader.",
+        "ReleaseDate": "1977",
+        "Time": "2h 1m",
+        "imdbb": "8.6",
+        "img": "https://m.media-amazon.com/images/M/MV5BOTA5NjhiOTAtZWM0ZC00MWNhLThiMzEtZDFkOTk2OTU1ZDJkXkEyXkFqcGdeQXVyMTA4NDI1NTQx._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/wzigy9AF1Nk"
+    },
+    {
+        "Name": "Terminatör 2: Mahşer Günü",
+        "Description": "A cyborg, identical to the one who failed to kill Sarah Connor, must now protect her 10-year old son John from an even more advanced and powerful cyborg.",
+        "ReleaseDate": "1991",
+        "Time": "2h 17m",
+        "imdbb": "8.6",
+        "img": "https://m.media-amazon.com/images/M/MV5BMGU2NzRmZjUtOGUxYS00ZjdjLWEwZWItY2NlM2JhNjkxNTFmXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/x6ccwLSEr6Q"
+    },
+    {
+        "Name": "Geleceğe Dönüş",
+        "Description": "Marty McFly, a 17-year-old high school student, is accidentally sent 30 years into the past in a time-traveling DeLorean invented by his close friend, the maverick scientist Doc Brown.",
+        "ReleaseDate": "1985",
+        "Time": "1h 56m",
+        "imdbb": "8.5",
+        "img": "https://m.media-amazon.com/images/M/MV5BZmU0M2Y1OGUtZjIxNi00ZjBkLTg1MjgtOWIyNThiZWIwYjRiXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/L9HASvcViS8"
+    },
+    {
+        "Name": "Ruhların Kaçışı",
+        "Description": "During her family's move to the suburbs, a sullen 10-year-old girl wanders into a world ruled by gods, witches and spirits, a world where humans are changed into beasts.",
+        "ReleaseDate": "2001",
+        "Time": "2h 5m",
+        "imdbb": "8.6",
+        "img": "https://m.media-amazon.com/images/M/MV5BMjlmZmI5MDctNDE2YS00YWE0LWE5ZWItZDBhYWQ0NTcxNWRhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/_5U_NsG6vr8"
+    },
+    {
+        "Name": "Piyanist",
+        "Description": "A Polish Jewish musician struggles to survive the destruction of the Warsaw ghetto of World War II.",
+        "ReleaseDate": "2002",
+        "Time": "2h 30m",
+        "imdbb": "8.5",
+        "img": "https://m.media-amazon.com/images/M/MV5BOWRiZDIxZjktMTA1NC00MDQ2LWEzMjUtMTliZmY3NjQ3ODJiXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/BFwGqLa_oAo"
+    },
+    {
+        "Name": "Sapık",
+        "Description": "A Phoenix secretary embezzles $40,000 from her employer's client, goes on the run and checks into a remote motel run by a young man under the domination of his mother.",
+        "ReleaseDate": "1960",
+        "Time": "1h 49m",
+        "imdbb": "8.5",
+        "img": "https://m.media-amazon.com/images/M/MV5BNTQwNDM1YzItNDAxZC00NWY2LTk0M2UtNDIwNWI5OGUyNWUxXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/oa_W-h8HMW0"
+    },
+    {
+        "Name": "Parazit",
+        "Description": "Greed and class discrimination threaten the newly formed symbiotic relationship between the wealthy Park family and the destitute Kim clan.",
+        "ReleaseDate": "2019",
+        "Time": "2h 12m",
+        "imdbb": "8.5",
+        "img": "https://m.media-amazon.com/images/M/MV5BYWZjMjk3ZTItODQ2ZC00NTY5LWE0ZDYtZTI3MjcwN2Q5NTVkXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/Xey1oYCWbV4"
+    },
+    {
+        "Name": "Sevginin Gücü",
+        "Description": "12-year-old Mathilda is reluctantly taken in by Léon, a professional assassin, after her family is murdered. An unusual relationship forms as she becomes his protégée and learns the assassin's trade.",
+        "ReleaseDate": "1994",
+        "Time": "1h 50m",
+        "imdbb": "8.5",
+        "img": "https://m.media-amazon.com/images/M/MV5BOTgyMWQ0ZWUtN2Q2MS00NmY0LWI3OWMtNjFkMzZlNDZjNTk0XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/3OzEacGGA6g"
+    },
+    {
+        "Name": "Gladyatör",
+        "Description": "A former Roman General sets out to exact vengeance against the corrupt emperor who murdered his family and sent him into slavery.",
+        "ReleaseDate": "2000",
+        "Time": "2h 35m",
+        "imdbb": "8.5",
+        "img": "https://m.media-amazon.com/images/M/MV5BMDliMmNhNDEtODUyOS00MjNlLTgxODEtN2U3NzIxMGVkZTA1L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/owK1qxDselE"
+    },
+    {
+        "Name": "Aslan Kral",
+        "Description": "Lion prince Simba and his father are targeted by his bitter uncle, who wants to ascend the throne himself.",
+        "ReleaseDate": "1994",
+        "Time": "1h 28m",
+        "imdbb": "8.5",
+        "img": "https://m.media-amazon.com/images/M/MV5BYTYxNGMyZTYtMjE3MS00MzNjLWFjNmYtMDk3N2FmM2JiM2M1XkEyXkFqcGdeQXVyNjY5NDU4NzI@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/l7NOEpqSHIE"
+    },
+    {
+        "Name": "Geçmişin Gölgesinde",
+        "Description": "Living a life marked by violence, neo-Nazi Derek finally goes to prison after killing two black youths. Upon his release, Derek vows to change; he hopes to prevent his brother, Danny, who idolizes Derek, from following in his footsteps.",
+        "ReleaseDate": "1998",
+        "Time": "1h 59m",
+        "imdbb": "8.5",
+        "img": "https://m.media-amazon.com/images/M/MV5BZTJhN2FkYWEtMGI0My00YWM4LWI2MjAtM2UwNjY4MTI2ZTQyXkEyXkFqcGdeQXVyNjc3MjQzNTI@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/XfQYHqsiN5g"
+    },
+    {
+        "Name": "Köstebek",
+        "Description": "An undercover cop and a mole in the police attempt to identify each other while infiltrating an Irish gang in South Boston.",
+        "ReleaseDate": "2006",
+        "Time": "2h 31m",
+        "imdbb": "8.5",
+        "img": "https://m.media-amazon.com/images/M/MV5BMTI1MTY2OTIxNV5BMl5BanBnXkFtZTYwNjQ4NjY3._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/Msfcos16JmU"
+    },
+    {
+        "Name": "Whiplash",
+        "Description": "A promising young drummer enrolls at a cut-throat music conservatory where his dreams of greatness are mentored by an instructor who will stop at nothing to realize a student's potential.",
+        "ReleaseDate": "2014",
+        "Time": "1h 46m",
+        "imdbb": "8.5",
+        "img": "https://m.media-amazon.com/images/M/MV5BOTA5NDZlZGUtMjAxOS00YTRkLTkwYmMtYWQ0NWEwZDZiNjEzXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/7d_jQycdQGo"
+    },
+    {
+        "Name": "Prestij",
+        "Description": "After a tragic accident, two stage magicians in 1890s London engage in a battle to create the ultimate illusion while sacrificing everything they have to outwit each other.",
+        "ReleaseDate": "2006",
+        "Time": "2h 10m",
+        "imdbb": "8.5",
+        "img": "https://m.media-amazon.com/images/M/MV5BMzZhOTVmOTEtZGIxZS00MmExLTk1OWItOTFhMzNjNzNiN2M4XkEyXkFqcGdeQXVyOTU2NDAzNDE@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/bBFFhMVk0FU"
+    },
+    {
+        "Name": "Olağan Şüpheliler",
+        "Description": "A sole survivor tells of the twisty events leading up to a horrific gun battle on a boat, which began when five criminals met at a random police lineup.",
+        "ReleaseDate": "1995",
+        "Time": "1h 46m",
+        "imdbb": "8.5",
+        "img": "https://m.media-amazon.com/images/M/MV5BNDg1OWQyNzAtZjRkNS00OGZmLWIyNWYtZTMxZDIyNGRkOWY2XkEyXkFqcGdeQXVyMTgxOTIzNzk@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/oiXdPolca5w"
+    },
+    {
+        "Name": "Casablanca",
+        "Description": "A cynical expatriate American cafe owner struggles to decide whether or not to help his former lover and her fugitive husband escape the Nazis in French Morocco.",
+        "ReleaseDate": "1942",
+        "Time": "1h 42m",
+        "imdbb": "8.5",
+        "img": "https://m.media-amazon.com/images/M/MV5BY2IzZGY2YmEtYzljNS00NTM5LTgwMzUtMzM1NjQ4NGI0OTk0XkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/MF7JH_54d8c"
+    },
+    {
+        "Name": "Ateşböceklerinin Mezarı",
+        "Description": "A young boy and his little sister struggle to survive in Japan during World War II.",
+        "ReleaseDate": "1988",
+        "Time": "1h 29m",
+        "imdbb": "8.5",
+        "img": "https://m.media-amazon.com/images/M/MV5BZmY2NjUzNDQtNTgxNC00M2Q4LTljOWQtMjNjNDBjNWUxNmJlXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/4vPeTSRd580"
+    },
+    {
+        "Name": "Seppuku",
+        "Description": "When a ronin requesting seppuku at a feudal lord's palace is told of the brutal suicide of another ronin who previously visited, he reveals how their pasts are intertwined - and in doing so challenges the clan's integrity.",
+        "ReleaseDate": "1962",
+        "Time": "2h 13m",
+        "imdbb": "8.6",
+        "img": "https://m.media-amazon.com/images/M/MV5BYjBmYTQ1NjItZWU5MS00YjI0LTg2OTYtYmFkN2JkMmNiNWVkXkEyXkFqcGdeQXVyMTMxMTY0OTQ@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/pRp1tUHpWNs"
+    },
+    {
+        "Name": "Can Dostum",
+        "Description": "Will Hunting, a janitor at M.I.T., has a gift for mathematics, but needs help from a psychologist to find direction in his life.",
+        "ReleaseDate": "1997",
+        "Time": "2h 6m",
+        "imdbb": "8.3",
+        "img": "https://m.media-amazon.com/images/M/MV5BOTI0MzcxMTYtZDVkMy00NjY1LTgyMTYtZmUxN2M3NmQ2NWJhXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/MWys2hHWuAI"
+    },
+    {
+        "Name": "Asri Zamanlar",
+        "Description": "The Tramp struggles to live in modern industrial society with the help of a young homeless woman.",
+        "ReleaseDate": "1936",
+        "Time": "1h 27m",
+        "imdbb": "8.5",
+        "img": "https://m.media-amazon.com/images/M/MV5BYjJiZjMzYzktNjU0NS00OTkxLWEwYzItYzdhYWJjN2QzMTRlL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/GLeDdzGUTq0"
+    },
+    {
+        "Name": "Batıda Kan Var",
+        "Description": "A mysterious stranger with a harmonica joins forces with a notorious desperado to protect a beautiful widow from a ruthless assassin working for the railroad.",
+        "ReleaseDate": "1968",
+        "Time": "2h 45m",
+        "imdbb": "8.5",
+        "img": "https://m.media-amazon.com/images/M/MV5BODQ3NDExOGYtMzI3Mi00NWRlLTkwNjAtNjc4MDgzZGJiZTA1XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/WdovGJA57ME"
+    },
+    {
+        "Name": "Cennet Sineması",
+        "Description": "A filmmaker recalls his childhood when falling in love with the pictures at the cinema of his home village and forms a deep friendship with the cinema's projectionist.",
+        "ReleaseDate": "1988",
+        "Time": "2h 35m",
+        "imdbb": "8.5",
+        "img": "https://m.media-amazon.com/images/M/MV5BM2FhYjEyYmYtMDI1Yy00YTdlLWI2NWQtYmEzNzAxOGY1NjY2XkEyXkFqcGdeQXVyNTA3NTIyNDg@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/cRU2K6gFdzA"
+    },
+    {
+        "Name": "Arka Pencere",
+        "Description": "A photographer in a wheelchair spies on his neighbors from his Greenwich Village courtyard apartment window, and becomes convinced one of them has committed murder, despite the skepticism of his fashion-model girlfriend.",
+        "ReleaseDate": "1954",
+        "Time": "1h 52m",
+        "imdbb": "8.5",
+        "img": "https://m.media-amazon.com/images/M/MV5BNGUxYWM3M2MtMGM3Mi00ZmRiLWE0NGQtZjE5ODI2OTJhNTU0XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/7Vb-UNnsmtk"
+    },
+    {
+        "Name": "Yaratık",
+        "Description": "The crew of a commercial spacecraft encounter a deadly lifeform after investigating an unknown transmission.",
+        "ReleaseDate": "1979",
+        "Time": "1h 57m",
+        "imdbb": "8.5",
+        "img": "https://m.media-amazon.com/images/M/MV5BOGQ1NmFmZjktNTBjNS00YmEwLWIzYWUtYTQ5NzY2ZGVkYTdmXkEyXkFqcGdeQXVyMjI0NTA4NzA@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/8iSfiOX0MKA"
+    },
+    {
+        "Name": "Şehir Işıkları",
+        "Description": "With the aid of a wealthy erratic tippler, a dewy-eyed tramp who has fallen in love with a sightless flower girl accumulates money to be able to help her medically.",
+        "ReleaseDate": "1931",
+        "Time": "1h 27m",
+        "imdbb": "8.5",
+        "img": "https://m.media-amazon.com/images/M/MV5BY2I4MmM1N2EtM2YzOS00OWUzLTkzYzctNDc5NDg2N2IyODJmXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/https://www.youtube.com/shorts/WhxqTJNBFZs"
+    },
+    {
+        "Name": "Kıyamet",
+        "Description": "A U.S. Army officer serving in Vietnam is tasked with assassinating a renegade Special Forces Colonel who sees himself as a god.",
+        "ReleaseDate": "1979",
+        "Time": "2h 27m",
+        "imdbb": "8.4",
+        "img": "https://m.media-amazon.com/images/M/MV5BYTE3OTAzYjMtYmE4OC00NGRjLTkyMGUtNTZlYzA1YzA3YWI3XkEyXkFqcGdeQXVyOTU2NDAzNDE@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/5WT-FNHSKSE"
+    },
+    {
+        "Name": "Akıl Defteri",
+        "Description": "A man with short-term memory loss attempts to track down his wife's murderer.",
+        "ReleaseDate": "2000",
+        "Time": "1h 53m",
+        "imdbb": "8.4",
+        "img": "https://m.media-amazon.com/images/M/MV5BZTcyNjk1MjgtOWI3Mi00YzQwLWI5MTktMzY4ZmI2NDAyNzYzXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/xH5h1Q-H3bc"
+    },
+    {
+        "Name": "Zincirsiz",
+        "Description": "With the help of a German bounty-hunter, a freed slave sets out to rescue his wife from a brutal plantation owner in Mississippi.",
+        "ReleaseDate": "2012",
+        "Time": "2h 45m",
+        "imdbb": "8.4",
+        "img": "https://m.media-amazon.com/images/M/MV5BYWZmMmFiYWUtMzkxMC00ZWI2LTg5MGItODBjNmRhOGM4YmNmXkEyXkFqcGdeQXVyOTU2NDAzNDE@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/lrBGnY1F_1E"
+    },
+    {
+        "Name": "Kutsal Hazine Avcıları",
+        "Description": "In 1936, archaeologist and adventurer Indiana Jones is hired by the U.S. government to find the Ark of the Covenant before the Nazis can obtain its awesome powers.",
+        "ReleaseDate": "1981",
+        "Time": "1h 55m",
+        "imdbb": "8.4",
+        "img": "https://m.media-amazon.com/images/M/MV5BODMzYzU3NmMtMDQ4ZC00MDRiLTgwN2QtMTY1NzA3YmRhMzJmXkEyXkFqcGdeQXVyNjMzMDgxMzk@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/szF9QyDP0ww"
+    },
+    {
+        "Name": "VOL·i",
+        "Description": "In the distant future, a small waste-collecting robot inadvertently embarks on a space journey that will ultimately decide the fate of mankind.",
+        "ReleaseDate": "2008",
+        "Time": "1h 38m",
+        "imdbb": "8.4",
+        "img": "https://m.media-amazon.com/images/M/MV5BYTcxZTczMTQtOTIwNS00M2QzLThjNzktYzVlMzAwZjMwMTg0XkEyXkFqcGdeQXVyOTgxMDMxNTc@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/SFIPL8RdRQI"
+    },
+    {
+        "Name": "Başkalarının Hayatı",
+        "Description": "In 1984 East Berlin, an agent of the secret police, conducting surveillance on a writer and his lover, finds himself becoming increasingly absorbed by their lives.",
+        "ReleaseDate": "2006",
+        "Time": "2h 17m",
+        "imdbb": "8.4",
+        "img": "https://m.media-amazon.com/images/M/MV5BNmQyNmJjM2ItNTQzYi00ZjMxLWFjMDYtZjUyN2YwZDk5YWQ2XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/-UsFedI5oak"
+    },
+    {
+        "Name": "Sunset Bulvarı",
+        "Description": "A screenwriter develops a dangerous relationship with a faded film star determined to make a triumphant return.",
+        "ReleaseDate": "1950",
+        "Time": "1h 50m",
+        "imdbb": "8.4",
+        "img": "https://m.media-amazon.com/images/M/MV5BMTU0NTkyNzYwMF5BMl5BanBnXkFtZTgwMDU0NDk5MTI@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/_dY0SVxnHjQ"
+    },
+    {
+        "Name": "Zafer Yolları",
+        "Description": "After refusing to attack an enemy position, a general accuses the soldiers of cowardice and their commanding officer must defend them.",
+        "ReleaseDate": "1957",
+        "Time": "1h 28m",
+        "imdbb": "8.4",
+        "img": "https://m.media-amazon.com/images/M/MV5BOTI5Nzc0OTMtYzBkMS00NjkxLThmM2UtNjM2ODgxN2M5NjNkXkEyXkFqcGdeQXVyNjQ2MjQ5NzM@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/Z7KeFG-Vcdc"
+    },
+    {
+        "Name": "Cinnet",
+        "Description": "A family heads to an isolated hotel for the winter where a sinister presence influences the father into violence, while his psychic son sees horrific forebodings from both past and future.",
+        "ReleaseDate": "1980",
+        "Time": "2h 26m",
+        "imdbb": "8.4",
+        "img": "https://m.media-amazon.com/images/M/MV5BZWFlYmY2MGEtZjVkYS00YzU4LTg0YjQtYzY1ZGE3NTA5NGQxXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/odvvFZCnjgc"
+    },
+    {
+        "Name": "Şarlo Diktatör",
+        "Description": "Dictator Adenoid Hynkel tries to expand his empire while a poor Jewish barber tries to avoid persecution from Hynkel's regime.",
+        "ReleaseDate": "1940",
+        "Time": "2h 5m",
+        "imdbb": "8.4",
+        "img": "https://m.media-amazon.com/images/M/MV5BMmExYWJjNTktNGUyZS00ODhmLTkxYzAtNWIzOGEyMGNiMmUwXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/i1C6qZVeFtA"
+    },
+    {
+        "Name": "Yenilmezler: Sonsuzluk Savaşı",
+        "Description": "The Avengers and their allies must be willing to sacrifice all in an attempt to defeat the powerful Thanos before his blitz of devastation and ruin puts an end to the universe.",
+        "ReleaseDate": "2018",
+        "Time": "2h 29m",
+        "imdbb": "8.4",
+        "img": "https://m.media-amazon.com/images/M/MV5BMjMxNjY2MDU1OV5BMl5BanBnXkFtZTgwNzY1MTUwNTM@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/5pyf1CkxKyw"
+    },
+    {
+        "Name": "Beklenmeyen Şahit",
+        "Description": "A veteran British barrister must defend his client in a murder trial that has surprise after surprise.",
+        "ReleaseDate": "1957",
+        "Time": "1h 56m",
+        "imdbb": "8.4",
+        "img": "https://m.media-amazon.com/images/M/MV5BNDQwODU5OWYtNDcyNi00MDQ1LThiOGMtZDkwNWJiM2Y3MDg0XkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/jUCcXKO7zfc"
+    },
+    {
+        "Name": "Yaratık 2: Yaratığın Dönüşü",
+        "Description": "Decades after surviving the Nostromo incident, Ellen Ripley is sent out to re-establish contact with a terraforming colony but finds herself battling the Alien Queen and her offspring.",
+        "ReleaseDate": "1986",
+        "Time": "2h 17m",
+        "imdbb": "8.4",
+        "img": "https://m.media-amazon.com/images/M/MV5BMWY3MzYwNjQtZGVhYi00ODhiLWFjMzYtZDhlM2E5OGNhYmQzXkEyXkFqcGdeQXVyMjI0NTA4NzA@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/w5-b-m_na-U"
+    },
+    {
+        "Name": "Örümcek Adam: Örümcek Evreninde",
+        "Description": "Teen Miles Morales becomes the Spider-Man of his universe, and must join with five spider-powered individuals from other dimensions to stop a threat for all realities.",
+        "ReleaseDate": "2018",
+        "Time": "1h 57m",
+        "imdbb": "8.4",
+        "img": "https://m.media-amazon.com/images/M/MV5BMjc4YTA2ZDktNzY4Yi00OGRkLWE3MmQtN2M0ZDU0ZjA0NjBhXkEyXkFqcGdeQXVyOTU2NDAzNDE@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/KtShUXs8Z_s"
+    },
+    {
+        "Name": "Amerikan Güzeli",
+        "Description": "A sexually frustrated suburban father has a mid-life crisis after becoming infatuated with his daughter's best friend.",
+        "ReleaseDate": "1999",
+        "Time": "2h 2m",
+        "imdbb": "8.3",
+        "img": "https://m.media-amazon.com/images/M/MV5BNTBmZWJkNjctNDhiNC00MGE2LWEwOTctZTk5OGVhMWMyNmVhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/Ly7rq5EsTC8"
+    },
+    {
+        "Name": "Garip Doktor",
+        "Description": "An insane American general orders a bombing attack on the Soviet Union, triggering a path to nuclear holocaust that a war room full of politicians and generals frantically tries to stop.",
+        "ReleaseDate": "1964",
+        "Time": "1h 35m",
+        "imdbb": "8.4",
+        "img": "https://m.media-amazon.com/images/M/MV5BMWMxYjZkOWUtM2FjMi00MmI1LThkNzQtNTM5Y2E2ZGQ2NGFhXkEyXkFqcGdeQXVyMTA0MTM5NjI2._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/Nl6zmCQjNfQ"
+    },
+    {
+        "Name": "Kara Şövalye Yükseliyor",
+        "Description": "Eight years after the Joker's reign of chaos, Batman is coerced out of exile with the assistance of the mysterious Selina Kyle in order to defend Gotham City from the vicious guerrilla terrorist Bane.",
+        "ReleaseDate": "2012",
+        "Time": "2h 44m",
+        "imdbb": "8.4",
+        "img": "https://m.media-amazon.com/images/M/MV5BMTk4ODQzNDY3Ml5BMl5BanBnXkFtZTcwODA0NTM4Nw@@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/WzU32YlU2WI"
+    },
+    {
+        "Name": "Soysuzlar Çetesi",
+        "Description": "In Nazi-occupied France during World War II, a plan to assassinate Nazi leaders by a group of Jewish U.S. soldiers coincides with a theatre owner's vengeful plans for the same.",
+        "ReleaseDate": "2009",
+        "Time": "2h 33m",
+        "imdbb": "8.3",
+        "img": "https://m.media-amazon.com/images/M/MV5BZTlkNTNhNGUtNzg5Mi00YzMwLTlmNTMtMTk1Zjk2ZDZmZGViXkEyXkFqcGdeQXVyOTU2NDAzNDE@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/WU9w4Bxp2wg"
+    },
+    {
+        "Name": "İhtiyar Delikanlı",
+        "Description": "After being kidnapped and imprisoned for fifteen years, Oh Dae-Su is released, only to find that he must find his captor in five days.",
+        "ReleaseDate": "2003",
+        "Time": "2h",
+        "imdbb": "8.4",
+        "img": "https://m.media-amazon.com/images/M/MV5BMTI3NTQyMzU5M15BMl5BanBnXkFtZTcwMTM2MjgyMQ@@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/TJyExPnb_cw"
+    },
+    {
+        "Name": "Amadeus",
+        "Description": "The life, success and troubles of Wolfgang Amadeus Mozart, as told by Antonio Salieri, the contemporaneous composer who was deeply jealous of Mozart's talent and claimed to have murdered him.",
+        "ReleaseDate": "1984",
+        "Time": "2h 40m",
+        "imdbb": "8.4",
+        "img": "https://m.media-amazon.com/images/M/MV5BOGNmNzE2MjItODY5My00Yzg5LWJiMDQtZmM4ODI3NmYxZTYxXkEyXkFqcGdeQXVyMjI0NTA4NzA@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/r7kWQj9FCGY"
+    },
+    {
+        "Name": "Coco",
+        "Description": "Aspiring musician Miguel, confronted with his family's ancestral ban on music, enters the Land of the Dead to find his great-great-grandfather, a legendary singer.",
+        "ReleaseDate": "2017",
+        "Time": "1h 45m",
+        "imdbb": "8.4",
+        "img": "https://m.media-amazon.com/images/M/MV5BYjQ5NjM0Y2YtNjZkNC00ZDhkLWJjMWItN2QyNzFkMDE3ZjAxXkEyXkFqcGdeQXVyODIxMzk5NjA@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/Ga6RYejo6Hk"
+    },
+    {
+        "Name": "Oyuncak Hikayesi",
+        "Description": "A cowboy doll is profoundly threatened and jealous when a new spaceman action figure supplants him as top toy in a boy's bedroom.",
+        "ReleaseDate": "1995",
+        "Time": "1h 21m",
+        "imdbb": "8.3",
+        "img": "https://m.media-amazon.com/images/M/MV5BMDU2ZWJlMjktMTRhMy00ZTA5LWEzNDgtYmNmZTEwZTViZWJkXkEyXkFqcGdeQXVyNDQ2OTk4MzI@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/wTy-MSfC8tA"
+    },
+    {
+        "Name": "Cesur Yürek",
+        "Description": "Scottish warrior William Wallace leads his countrymen in a rebellion to free his homeland from the tyranny of King Edward I of England.",
+        "ReleaseDate": "1995",
+        "Time": "2h 58m",
+        "imdbb": "8.3",
+        "img": "https://m.media-amazon.com/images/M/MV5BYmZjM2IwNWQtMTEyMC00ZGQzLWI1ZDYtM2IxOWY5MDhiNjBkXkEyXkFqcGdeQXVyMjI0NTA4NzA@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/bnOHqdCJXt0"
+    },
+    {
+        "Name": "U-Bot: Denizaltı",
+        "Description": "A German U-boat stalks the frigid waters of the North Atlantic as its young crew experience the sheer terror and claustrophobic life of a submariner in World War II.",
+        "ReleaseDate": "1981",
+        "Time": "2h 29m",
+        "imdbb": "8.4",
+        "img": "https://m.media-amazon.com/images/M/MV5BNDBjMWUxNTUtNjZiNi00YzJhLTgzNzUtMTRiY2FkZmMzYTNjXkEyXkFqcGdeQXVyMTUzMDUzNTI3._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/NgFQCi9pq1Q"
+    },
+    {
+        "Name": "Joker",
+        "Description": "The rise of Arthur Fleck, from aspiring stand-up comedian and pariah to Gotham's clown prince and leader of the revolution.",
+        "ReleaseDate": "2019",
+        "Time": "2h 2m",
+        "imdbb": "8.4",
+        "img": "https://m.media-amazon.com/images/M/MV5BNmQ1MjRmNDktNjg1Zi00OTE0LWE3ZTktZjZmNGQ1ZWEyN2ZhXkEyXkFqcGdeQXVyMTQwNDg3MDg@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/t433PEQGErc"
+    },
+    {
+        "Name": "Yenilmezler: Son Oyun",
+        "Description": "After the devastating events of Yenilmezler: Sonsuzluk Savaşı (2018), the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos' actions and restore balance to the universe.",
+        "ReleaseDate": "2019",
+        "Time": "3h 1m",
+        "imdbb": "8.4",
+        "img": "https://m.media-amazon.com/images/M/MV5BMTc5MDE2ODcwNV5BMl5BanBnXkFtZTgwMzI2NzQ2NzM@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/JBYJVfWQk7Q"
+    },
+    {
+        "Name": "Prenses Mononoke",
+        "Description": "On a journey to find the cure for a Tatarigami's curse, Ashitaka finds himself in the middle of a war between the forest gods and Tatara, a mining colony. In this quest he also meets San, the Mononoke Hime.",
+        "ReleaseDate": "1997",
+        "Time": "2h 14m",
+        "imdbb": "8.3",
+        "img": "https://m.media-amazon.com/images/M/MV5BNTZkYmI0MmEtNGFlZC00OWZjLWFjMmItMjk1OWZkOWJiZGVjXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/4OiMOHRDs14"
+    },
+    {
+        "Name": "Can Dostum",
+        "Description": "Will Hunting, a janitor at M.I.T., has a gift for mathematics, but needs help from a psychologist to find direction in his life.",
+        "ReleaseDate": "1997",
+        "Time": "2h 6m",
+        "imdbb": "8.3",
+        "img": "https://m.media-amazon.com/images/M/MV5BOTI0MzcxMTYtZDVkMy00NjY1LTgyMTYtZmUxN2M3NmQ2NWJhXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/MWys2hHWuAI"
+    },
+    {
+        "Name": "Bir Zamanlar Amerika",
+        "Description": "A former Prohibition-era Jewish gangster returns to the Lower East Side of Manhattan 35 years later, where he must once again confront the ghosts and regrets of his old life.",
+        "ReleaseDate": "1984",
+        "Time": "3h 49m",
+        "imdbb": "8.3",
+        "img": "https://m.media-amazon.com/images/M/MV5BYTBmNzM1YTMtYTRmMC00NTE1LThiNGUtMzVkZWFlZjQ5YzBmXkEyXkFqcGdeQXVyMjI0NTA4NzA@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/VUdJdJ2MaRc"
+    },
+    {
+        "Name": "Senin Adın",
+        "Description": "Two teenagers share a profound, magical connection upon discovering they are swapping bodies. Things manage to become even more complicated when the boy and girl decide to meet in person.",
+        "ReleaseDate": "2016",
+        "Time": "1h 46m",
+        "imdbb": "8.4",
+        "img": "https://m.media-amazon.com/images/M/MV5BYjAxOGE2YmEtZjc4MS00ZjcxLWI5NTMtNDA2ZGU5ODQ4NTBmXkEyXkFqcGdeQXVyMTYzMDM0NTU@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/eox3LfThQF0"
+    },
+    {
+        "Name": "3 Ahmak",
+        "Description": "Two friends are searching for their long lost companion. They revisit their college days and recall the memories of their friend who inspired them to think differently, even as the rest of the world called them \"idiots\".",
+        "ReleaseDate": "2009",
+        "Time": "2h 50m",
+        "imdbb": "8.4",
+        "img": "https://m.media-amazon.com/images/M/MV5BMWYxZWRiNzQtYTRmMC00MmQ2LTkwMmYtMWYzOTViYTgyMTE1XkEyXkFqcGdeQXVyNzMzMjU5NDY@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/K0eDlFX9GMc"
+    },
+    {
+        "Name": "Yağmur Altında",
+        "Description": "A silent film star falls for a chorus girl just as he and his delusionally jealous screen partner are trying to make the difficult transition to talking pictures in 1920s Hollywood.",
+        "ReleaseDate": "1952",
+        "Time": "1h 43m",
+        "imdbb": "8.3",
+        "img": "https://m.media-amazon.com/images/M/MV5BZDRjNGViMjQtOThlMi00MTA3LThkYzQtNzJkYjBkMGE0YzE1XkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/pOkzpNTUSxo"
+    },
+    {
+        "Name": "Bir Rüya İçin Ağıt",
+        "Description": "The drug-induced utopias of four Coney Island people are shattered when their addictions run deep.",
+        "ReleaseDate": "2000",
+        "Time": "1h 42m",
+        "imdbb": "8.3",
+        "img": "https://m.media-amazon.com/images/M/MV5BOTdiNzJlOWUtNWMwNS00NmFlLWI0YTEtZmI3YjIzZWUyY2Y3XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/_w0Ro67trFs"
+    },
+    {
+        "Name": "Yüksek ve Alçak",
+        "Description": "An executive of a Yokohama shoe company becomes a victim of extortion when his chauffeur's son is kidnapped by mistake and held for ransom.",
+        "ReleaseDate": "1963",
+        "Time": "2h 23m",
+        "imdbb": "8.4",
+        "img": "https://m.media-amazon.com/images/M/MV5BOTI4NTNhZDMtMWNkZi00MTRmLWJmZDQtMmJkMGVmZTEzODlhXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/LV3z2Ytxu90"
+    },
+    {
+        "Name": "Oyuncak Hikayesi 3",
+        "Description": "The toys are mistakenly delivered to a day-care center instead of the attic right before Andy leaves for college, and it's up to Woody to convince the other toys that they weren't abandoned and to return home.",
+        "ReleaseDate": "2010",
+        "Time": "1h 43m",
+        "imdbb": "8.3",
+        "img": "https://m.media-amazon.com/images/M/MV5BNDZiYTJlMjUtNDgxZS00ZmRjLWFmNWYtZmQ1ODllNGZlNmU5XkEyXkFqcGdeQXVyOTgxMDMxNTc@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/wTy-MSfC8tA"
+    },
+    {
+        "Name": "Kefernahum",
+        "Description": "While serving a five-year sentence for a violent crime, a 12-year-old boy sues his parents for neglect.",
+        "ReleaseDate": "2018",
+        "Time": "2h 6m",
+        "imdbb": "8.4",
+        "img": "https://m.media-amazon.com/images/M/MV5BMmExNzU2ZWMtYzUwYi00YmM2LTkxZTQtNmVhNjY0NTMyMWI2XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/EUebkg-3Mgk"
+    },
+    {
+        "Name": "Star Wars: Bölüm VI - Jedi'nin Dönüşü",
+        "Description": "After rescuing Han Solo from Jabba the Hutt, the Rebels attempt to destroy the second Death Star, while Luke struggles to help Darth Vader back from the dark side.",
+        "ReleaseDate": "1983",
+        "Time": "2h 11m",
+        "imdbb": "8.3",
+        "img": "https://m.media-amazon.com/images/M/MV5BMWFlNmMyYjctZjA4NC00ZDRkLWE2N2MtZjhiMDgyMDI0MjU3XkEyXkFqcGdeQXVyOTU2NDAzNDE@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/fBodbPAjToI"
+    },
+    {
+        "Name": "2001: Uzay Yolu Macerası",
+        "Description": "After uncovering a mysterious artifact buried beneath the Lunar surface, a spacecraft is sent to Jupiter to find its origins - a spacecraft manned by two men and the supercomputer H.A.L. 9000.",
+        "ReleaseDate": "1968",
+        "Time": "2h 29m",
+        "imdbb": "8.3",
+        "img": "https://m.media-amazon.com/images/M/MV5BNDk3YzZmM2ItYTFmMy00Njc5LWI2ZDItMTk0ODk5ZTBkMDI1XkEyXkFqcGdeQXVyMjI0NTA4NzA@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/oR_e9y-bka0"
+    },
+    {
+        "Name": "Sil Baştan",
+        "Description": "When their relationship turns sour, a couple undergoes a medical procedure to have each other erased from their memories for ever.",
+        "ReleaseDate": "2004",
+        "Time": "1h 48m",
+        "imdbb": "8.3",
+        "img": "https://m.media-amazon.com/images/M/MV5BNjIxMTEzOTUtYWJhYS00MDQwLThmNmItYzkyN2MzZGVkZmM1XkEyXkFqcGdeQXVyOTU2NDAzNDE@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/yhs-CfJq4g4"
+    },
+    {
+        "Name": "Gel ve Gör",
+        "Description": "After finding an old rifle, a young boy joins the Soviet resistance movement against ruthless German forces and experiences the horrors of World War II.",
+        "ReleaseDate": "1985",
+        "Time": "2h 22m",
+        "imdbb": "8.4",
+        "img": "https://m.media-amazon.com/images/M/MV5BODM4Njg0NTAtYjI5Ny00ZjAxLTkwNmItZTMxMWU5M2U3M2RjXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/SQdYeH5adjY"
+    },
+    {
+        "Name": "Onur Savaşı",
+        "Description": "A teacher lives a lonely life, all the while struggling over his son's custody. His life slowly gets better as he finds love and receives good news from his son, but his new luck is about to be brutally shattered by an innocent little lie.",
+        "ReleaseDate": "2012",
+        "Time": "1h 55m",
+        "imdbb": "8.3",
+        "img": "https://m.media-amazon.com/images/M/MV5BMTg2NDg3ODg4NF5BMl5BanBnXkFtZTcwNzk3NTc3Nw@@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/-zlrUv8-oS4"
+    },
+    {
+        "Name": "Rezervuar Köpekleri",
+        "Description": "When a simple jewelry heist goes horribly wrong, the surviving criminals begin to suspect that one of them is a police informant.",
+        "ReleaseDate": "1992",
+        "Time": "1h 39m",
+        "imdbb": "8.3",
+        "img": "https://m.media-amazon.com/images/M/MV5BZmExNmEwYWItYmQzOS00YjA5LTk2MjktZjEyZDE1Y2QxNjA1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/i1_5rFOBZ28"
+    },
+    {
+        "Name": "Lawrence of Arabia",
+        "Description": "The story of T.E. Lawrence, the English officer who successfully united and led the diverse, often warring, Arab tribes during World War I in order to fight the Turks.",
+        "ReleaseDate": "1962",
+        "Time": "3h 38m",
+        "imdbb": "8.3",
+        "img": "https://m.media-amazon.com/images/M/MV5BYWY5ZjhjNGYtZmI2Ny00ODM0LWFkNzgtZmI1YzA2N2MxMzA0XkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/vOlRhGEhG7k"
+    },
+    {
+        "Name": "Yurttaş Kane",
+        "Description": "Following the death of publishing tycoon Charles Foster Kane, reporters scramble to uncover the meaning of his final utterance: 'Rosebud.'",
+        "ReleaseDate": "1941",
+        "Time": "1h 59m",
+        "imdbb": "8.3",
+        "img": "https://m.media-amazon.com/images/M/MV5BYjBiOTYxZWItMzdiZi00NjlkLWIzZTYtYmFhZjhiMTljOTdkXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/8dxh3lwdOFw"
+    },
+    {
+        "Name": "Bir Şehir Katilini Arıyor",
+        "Description": "When the police in a German city are unable to catch a child-murderer, other criminals join in the manhunt.",
+        "ReleaseDate": "1931",
+        "Time": "1h 57m",
+        "imdbb": "8.3",
+        "img": "https://m.media-amazon.com/images/M/MV5BODA4ODk3OTEzMF5BMl5BanBnXkFtZTgwMTQ2ODMwMzE@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/80dgc0YCyNk"
+    },
+    {
+        "Name": "Yaşamak",
+        "Description": "In 1950s London, a humorless bureaucrat decides to take time off work to experience life after receiving a grim diagnosis.",
+        "ReleaseDate": "2022",
+        "Time": "1h 42m",
+        "imdbb": "7.2",
+        "img": "https://m.media-amazon.com/images/M/MV5BNTdiMWI1ZmUtOTk3OS00ZDYxLThjZWYtYjIwNWJkNTkxMmJlXkEyXkFqcGdeQXVyMTQyODg5MjQw._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/j-MIx8-0ZcU"
+    },
+    {
+        "Name": "Gizli Teşkilât",
+        "Description": "A New York City advertising executive goes on the run after being mistaken for a government agent by a group of foreign spies, and falls for a woman whose loyalties he begins to doubt.",
+        "ReleaseDate": "1959",
+        "Time": "2h 16m",
+        "imdbb": "8.3",
+        "img": "https://m.media-amazon.com/images/M/MV5BZDA3NDExMTUtMDlhOC00MmQ5LWExZGUtYmI1NGVlZWI4OWNiXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/vWfoH86-L_M"
+    },
+    {
+        "Name": "Garsoniyer",
+        "Description": "A Manhattan insurance clerk tries to rise in his company by letting its executives use his apartment for trysts, but complications and a romance of his own ensue.",
+        "ReleaseDate": "1960",
+        "Time": "2h 5m",
+        "imdbb": "8.3",
+        "img": "https://m.media-amazon.com/images/M/MV5BNzkwODFjNzItMmMwNi00MTU5LWE2MzktM2M4ZDczZGM1MmViXkEyXkFqcGdeQXVyNDY2MTk1ODk@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/Q7VycpwpiiI"
+    },
+    {
+        "Name": "Ölüm Korkusu",
+        "Description": "A former San Francisco police detective juggles wrestling with his personal demons and becoming obsessed with the hauntingly beautiful woman he has been hired to trail, who may be deeply disturbed.",
+        "ReleaseDate": "1958",
+        "Time": "2h 8m",
+        "imdbb": "8.3",
+        "img": "https://m.media-amazon.com/images/M/MV5BYTE4ODEwZDUtNDFjOC00NjAxLWEzYTQtYTI1NGVmZmFlNjdiL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/UVD-wckExSE"
+    },
+    {
+        "Name": "Amelie",
+        "Description": "Despite being caught in her imaginative world, Amelie, a young waitress, decides to help people find happiness. Her quest to spread joy leads her on a journey where she finds true love.",
+        "ReleaseDate": "2001",
+        "Time": "2h 2m",
+        "imdbb": "8.3",
+        "img": "https://m.media-amazon.com/images/M/MV5BNDg4NjM1YjMtYmNhZC00MjM0LWFiZmYtNGY1YjA3MzZmODc5XkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/HUECWi5pX7o"
+    },
+    {
+        "Name": "Çifte Tazminat",
+        "Description": "A Los Angeles insurance representative lets an alluring housewife seduce him into a scheme of insurance fraud and murder that arouses the suspicion of his colleague, an insurance investigator.",
+        "ReleaseDate": "1944",
+        "Time": "1h 47m",
+        "imdbb": "8.3",
+        "img": "https://m.media-amazon.com/images/M/MV5BOTdlNjgyZGUtOTczYi00MDdhLTljZmMtYTEwZmRiOWFkYjRhXkEyXkFqcGdeQXVyNDY2MTk1ODk@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/yKrrAa2o9Eg"
+    },
+    {
+        "Name": "Otomatik Portakal",
+        "Description": "In the future, a sadistic gang leader is imprisoned and volunteers for a conduct-aversion experiment, but it doesn't go as planned.",
+        "ReleaseDate": "1971",
+        "Time": "2h 16m",
+        "imdbb": "8.3",
+        "img": "https://m.media-amazon.com/images/M/MV5BMTY3MjM1Mzc4N15BMl5BanBnXkFtZTgwODM0NzAxMDE@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/IoT5mKyT8Ik"
+    },
+    {
+        "Name": "Full Metal Jacket",
+        "Description": "A pragmatic U.S. Marine observes the dehumanizing effects the Vietnam War has on his fellow recruits from their brutal boot camp training to the bloody street fighting in Hue.",
+        "ReleaseDate": "1987",
+        "Time": "1h 56m",
+        "imdbb": "8.3",
+        "img": "https://m.media-amazon.com/images/M/MV5BNzkxODk0NjEtYjc4Mi00ZDI0LTgyYjEtYzc1NDkxY2YzYTgyXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/n2i917l5RFc"
+    },
+    {
+        "Name": "Yaralı Yüz",
+        "Description": "In 1980 Miami, a determined Cuban immigrant takes over a drug cartel and succumbs to greed.",
+        "ReleaseDate": "1983",
+        "Time": "2h 50m",
+        "imdbb": "8.3",
+        "img": "https://m.media-amazon.com/images/M/MV5BZDVmY2M3MGEtYjY2Yi00YTYwLWE4YmMtZjkwMzlkMjY2MWIwXkEyXkFqcGdeQXVyMjI0NTA4NzA@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/88vmVmupq7s"
+    },
+    {
+        "Name": "İçimdeki Yangın",
+        "Description": "Twins journey to the Middle East to discover their family history and fulfill their mother's last wishes.",
+        "ReleaseDate": "2010",
+        "Time": "2h 11m",
+        "imdbb": "8.3",
+        "img": "https://m.media-amazon.com/images/M/MV5BMWE3MGYzZjktY2Q5Mi00Y2NiLWIyYWUtMmIyNzA3YmZlMGFhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/cZ1_Ge7dokk"
+    },
+    {
+        "Name": "Hamilton",
+        "Description": "The real life of one of America's foremost founding fathers and first Secretary of the Treasury, Alexander Hamilton. Captured live on Broadway from the Richard Rodgers Theater with the original Broadway cast.",
+        "ReleaseDate": "2020",
+        "Time": "2h 40m",
+        "imdbb": "8.3",
+        "img": "https://m.media-amazon.com/images/M/MV5BNjViNWRjYWEtZTI0NC00N2E3LTk0NGQtMjY4NTM3OGNkZjY0XkEyXkFqcGdeQXVyMjUxMTY3ODM@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/DSCKfXpAGHc"
+    },
+    {
+        "Name": "Büyük Hesaplaşma",
+        "Description": "A group of high-end professional thieves start to feel the heat from the LAPD when they unknowingly leave a clue at their latest heist.",
+        "ReleaseDate": "1995",
+        "Time": "2h 50m",
+        "imdbb": "8.3",
+        "img": "https://m.media-amazon.com/images/M/MV5BYjZjNTJlZGUtZTE1Ny00ZDc4LTgwYjUtMzk0NDgwYzZjYTk1XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/r3h3YM4gRKg"
+    },
+    {
+        "Name": "Yukarı Bak",
+        "Description": "78-year-old Carl Fredricksen travels to Paradise Falls in his house equipped with balloons, inadvertently taking a young stowaway.",
+        "ReleaseDate": "2009",
+        "Time": "1h 36m",
+        "imdbb": "8.3",
+        "img": "https://m.media-amazon.com/images/M/MV5BY2JiNDliN2ItODY3OS00ZGJmLWI1NjEtMGVhNmRjZGI1MWZjXkEyXkFqcGdeQXVyOTgxMDMxNTc@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/n0ODbDufkXM"
+    },
+    {
+        "Name": "Bülbülü Öldürmek",
+        "Description": "Atticus Finch, a widowed lawyer in Depression-era Alabama, defends a Black man against an undeserved rape charge, and tries to educate his young children against prejudice.",
+        "ReleaseDate": "1962",
+        "Time": "2h 9m",
+        "imdbb": "8.3",
+        "img": "https://m.media-amazon.com/images/M/MV5BNmVmYzcwNzMtMWM1NS00MWIyLThlMDEtYzUwZDgzODE1NmE2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/bqXEuOTDgcY"
+    },
+    {
+        "Name": "Belalılar",
+        "Description": "Two grifters team up to pull off the ultimate con.",
+        "ReleaseDate": "1973",
+        "Time": "2h 9m",
+        "imdbb": "8.3",
+        "img": "https://m.media-amazon.com/images/M/MV5BNGU3NjQ4YTMtZGJjOS00YTQ3LThmNmItMTI5MDE2ODI3NzY3XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/_M6g6O0qJtY"
+    },
+    {
+        "Name": "Bir Ayrılık",
+        "Description": "A married couple are faced with a difficult decision - to improve the life of their child by moving to another country or to stay in Iran and look after a deteriorating parent who has Alzheimer's disease.",
+        "ReleaseDate": "2011",
+        "Time": "2h 3m",
+        "imdbb": "8.3",
+        "img": "https://m.media-amazon.com/images/M/MV5BN2JmMjViMjMtZTM5Mi00ZGZkLTk5YzctZDg5MjFjZDE4NjNkXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/58Onuy5USTc"
+    },
+    {
+        "Name": "Metropolis",
+        "Description": "In a futuristic city sharply divided between the working class and the city planners, the son of the city's mastermind falls in love with a working-class prophet who predicts the coming of a savior to mediate their differences.",
+        "ReleaseDate": "1927",
+        "Time": "2h 33m",
+        "imdbb": "8.3",
+        "img": "https://m.media-amazon.com/images/M/MV5BMTg5YWIyMWUtZDY5My00Zjc1LTljOTctYmI0MWRmY2M2NmRkXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/gdtZv3XROnc"
+    },
+    {
+        "Name": "Zor Ölüm",
+        "Description": "A New York City police officer tries to save his estranged wife and several others taken hostage by terrorists during a Christmas party at the Nakatomi Plaza in Los Angeles.",
+        "ReleaseDate": "1988",
+        "Time": "2h 12m",
+        "imdbb": "8.2",
+        "img": "https://m.media-amazon.com/images/M/MV5BZjRlNDUxZjAtOGQ4OC00OTNlLTgxNmQtYTBmMDgwZmNmNjkxXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/aQT3HKXl3j8"
+    },
+    {
+        "Name": "Los Angeles Sırları",
+        "Description": "As corruption grows in 1950s Los Angeles, three policemen - one strait-laced, one brutal, and one sleazy - investigate a series of murders with their own brand of justice.",
+        "ReleaseDate": "1997",
+        "Time": "2h 18m",
+        "imdbb": "8.2",
+        "img": "https://m.media-amazon.com/images/M/MV5BMDQ2YzEyZGItYWRhOS00MjBmLTkzMDUtMTdjYzkyMmQxZTJlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/DacxCcEo-HY"
+    },
+    {
+        "Name": "Indiana Jones 3: Son Macera",
+        "Description": "In 1938, after his father goes missing while pursuing the Holy Grail, Indiana Jones finds himself up against the Nazis again to stop them from obtaining its powers.",
+        "ReleaseDate": "1989",
+        "Time": "2h 7m",
+        "imdbb": "8.2",
+        "img": "https://m.media-amazon.com/images/M/MV5BY2Q0ODg4ZmItNDZiYi00ZWY5LTg2NzctNmYwZjA5OThmNzE1XkEyXkFqcGdeQXVyMjM4MzQ4OTQ@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/5dUplnaCmpE"
+    },
+    {
+        "Name": "Taksi Şoförü",
+        "Description": "A mentally unstable veteran works as a nighttime taxi driver in New York City, where the perceived decadence and sleaze fuels his urge for violent action.",
+        "ReleaseDate": "1976",
+        "Time": "1h 54m",
+        "imdbb": "8.2",
+        "img": "https://m.media-amazon.com/images/M/MV5BNTU3ZGQ1OTItYzNmNC00OWIzLWI2MDEtZGRjNmYwOGNmZWE1XkEyXkFqcGdeQXVyNjMzMDgxMzk@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/mOVTPVN0kLQ"
+    },
+    {
+        "Name": "Kapışma",
+        "Description": "Unscrupulous boxing promoters, violent bookmakers, a Russian gangster, incompetent amateur robbers and supposedly Jewish jewelers fight to track down a priceless stolen diamond.",
+        "ReleaseDate": "2000",
+        "Time": "1h 44m",
+        "imdbb": "8.2",
+        "img": "https://m.media-amazon.com/images/M/MV5BMTA2NDYxOGYtYjU1Mi00Y2QzLTgxMTQtMWI1MGI0ZGQ5MmU4XkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/2ulhxt_RtpI"
+    },
+    {
+        "Name": "Bisiklet Hırsızları",
+        "Description": "In post-war Italy, a working-class man's bicycle is stolen, endangering his efforts to find work. He and his son set out to find it.",
+        "ReleaseDate": "1948",
+        "Time": "1h 29m",
+        "imdbb": "8.3",
+        "img": "https://m.media-amazon.com/images/M/MV5BNmI1ODdjODctMDlmMC00ZWViLWI5MzYtYzRhNDdjYmM3MzFjXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/H2P4xo9kmPM"
+    },
+    {
+        "Name": "Her Çocuk Özeldir",
+        "Description": "An eight-year-old boy is thought to be a lazy trouble-maker, until the new art teacher has the patience and compassion to discover the real problem behind his struggles in school.",
+        "ReleaseDate": "2007",
+        "Time": "2h 45m",
+        "imdbb": "8.3",
+        "img": "https://m.media-amazon.com/images/M/MV5BMDhjZWViN2MtNzgxOS00NmI4LThiZDQtZDI3MzM4MDE4NTc0XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/ZA8Be1gagWA"
+    },
+    {
+        "Name": "1917",
+        "Description": "April 6th, 1917. As an infantry battalion assembles to wage war deep in enemy territory, two soldiers are assigned to race against time and deliver a message that will stop 1,600 men from walking straight into a deadly trap.",
+        "ReleaseDate": "2019",
+        "Time": "1h 59m",
+        "imdbb": "8.2",
+        "img": "https://m.media-amazon.com/images/M/MV5BOTdmNTFjNDEtNzg0My00ZjkxLTg1ZDAtZTdkMDc2ZmFiNWQ1XkEyXkFqcGdeQXVyNTAzNzgwNTg@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/YqNYrYUiMfg"
+    },
+    {
+        "Name": "Top Gun: Maverick",
+        "Description": "After thirty years, Maverick is still pushing the envelope as a top naval aviator, but must confront ghosts of his past when he leads TOP GUN's elite graduates on a mission that demands the ultimate sacrifice from those chosen to fly it.",
+        "ReleaseDate": "2022",
+        "Time": "2h 10m",
+        "imdbb": "8.3",
+        "img": "https://m.media-amazon.com/images/M/MV5BMjNiMDA0OWQtZGY1MC00N2EwLTkxNDYtYmVkNTk1NzJiZjFmXkEyXkFqcGdeQXVyMTQyMTMwOTk0._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/giXco2jaZ_4"
+    },
+    {
+        "Name": "Çöküş",
+        "Description": "Traudl Junge, the final secretary for Adolf Hitler, tells of the Nazi dictator's final days in his Berlin bunker at the end of WWII.",
+        "ReleaseDate": "2004",
+        "Time": "2h 36m",
+        "imdbb": "8.2",
+        "img": "https://m.media-amazon.com/images/M/MV5BMTU0NTU5NTAyMl5BMl5BanBnXkFtZTYwNzYwMDg2._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/8i2vzy6XKP8"
+    },
+    {
+        "Name": "Dangal",
+        "Description": "Former wrestler Mahavir Singh Phogat and his two wrestler daughters struggle towards glory at the Commonwealth Games in the face of societal oppression.",
+        "ReleaseDate": "2016",
+        "Time": "2h 41m",
+        "imdbb": "8.3",
+        "img": "https://m.media-amazon.com/images/M/MV5BMTQ4MzQzMzM2Nl5BMl5BanBnXkFtZTgwMTQ1NzU3MDI@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/x_7YlGv9u1g"
+    },
+    {
+        "Name": "Birkaç Dolar İçin",
+        "Description": "Two bounty hunters with the same intentions team up to track down an escaped Mexican outlaw.",
+        "ReleaseDate": "1965",
+        "Time": "2h 12m",
+        "imdbb": "8.2",
+        "img": "https://m.media-amazon.com/images/M/MV5BNmM5M2I0NGMtMzhhMi00NmRiLWE1NTYtOTI4MWVkYjBlZGU3XkEyXkFqcGdeQXVyMjI0NTA4NzA@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/xCKCHbgD6q4"
+    },
+    {
+        "Name": "Batman Başlıyor",
+        "Description": "After witnessing his parents' death, Bruce learns the art of fighting to confront injustice. When he returns to Gotham as Batman, he must stop a secret society that intends to destroy the city.",
+        "ReleaseDate": "2005",
+        "Time": "2h 20m",
+        "imdbb": "8.2",
+        "img": "https://m.media-amazon.com/images/M/MV5BOTY4YjI2N2MtYmFlMC00ZjcyLTg3YjEtMDQyM2ZjYzQ5YWFkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/neY2xVmOfUM"
+    },
+    {
+        "Name": "Yumurcak",
+        "Description": "Yumurcak is a very naughty boy living with his father Nihat. His parents are separated. His mother Selma is a member of a very well-off family. Selma's step mother has wanted Selma to marry her nephew Faruk and caused her to be separated from Nihat. Nihat is a cab driver, he hits... Read all",
+        "ReleaseDate": "1969",
+        "Time": "No information",
+        "imdbb": "4.9",
+        "img": "https://m.media-amazon.com/images/M/MV5BMzg5YmRkYzAtOTJhYi00YTU1LTllODAtM2M2OGFhNWI0NjdlXkEyXkFqcGdeQXVyMTYzMDkwNjg@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/8uczbFcoVDE"
+    },
+    {
+        "Name": "Bazıları Sıcak Sever",
+        "Description": "After two male musicians witness a mob hit, they flee the state in an all-female band disguised as women, but further complications set in.",
+        "ReleaseDate": "1959",
+        "Time": "2h 1m",
+        "imdbb": "8.2",
+        "img": "https://m.media-amazon.com/images/M/MV5BNzAyOGIxYjAtMGY2NC00ZTgyLWIwMWEtYzY0OWQ4NDFjOTc5XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/rI_lUHOCcbc"
+    },
+    {
+        "Name": "Baba",
+        "Description": "Don Vito Corleone, head of a mafia family, decides to hand over his empire to his youngest son Michael. However, his decision unintentionally puts the lives of his loved ones in grave danger.",
+        "ReleaseDate": "1972",
+        "Time": "2h 55m",
+        "imdbb": "9.2",
+        "img": "https://m.media-amazon.com/images/M/MV5BNjFiZjQ4ZTktMDllYS00M2UxLWJkY2MtOTk3NGZjZTg2MTlhXkEyXkFqcGdeQXVyOTU2NDAzNDE@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/PYBjXSWZ62w"
+    },
+    {
+        "Name": "Perde Açılıyor",
+        "Description": "A seemingly timid but secretly ruthless ingénue insinuates herself into the lives of an aging Broadway star and her circle of theater friends.",
+        "ReleaseDate": "1950",
+        "Time": "2h 18m",
+        "imdbb": "8.2",
+        "img": "https://m.media-amazon.com/images/M/MV5BMTY2MTAzODI5NV5BMl5BanBnXkFtZTgwMjM4NzQ0MjE@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/gNS9vG5jXH4"
+    },
+    {
+        "Name": "Para Avcısı",
+        "Description": "Based on the true story of Jordan Belfort, from his rise to a wealthy stock-broker living the high life to his fall involving crime, corruption and the federal government.",
+        "ReleaseDate": "2013",
+        "Time": "3h",
+        "imdbb": "8.2",
+        "img": "https://m.media-amazon.com/images/M/MV5BODdiNjU5OGItYWM2NS00N2M5LWFlMDYtNGI3YWI2NjNiMzViXkEyXkFqcGdeQXVyOTgxMDMxNTc@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/7OQjqQ3DGE4"
+    },
+    {
+        "Name": "Yeşil Rehber",
+        "Description": "A working-class Italian-American bouncer becomes the driver for an African-American classical pianist on a tour of venues through the 1960s American South.",
+        "ReleaseDate": "2018",
+        "Time": "2h 10m",
+        "imdbb": "8.2",
+        "img": "https://m.media-amazon.com/images/M/MV5BYzIzYmJlYTYtNGNiYy00N2EwLTk4ZjItMGYyZTJiOTVkM2RlXkEyXkFqcGdeQXVyODY1NDk1NjE@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/IFkYBxxYBjw"
+    },
+    {
+        "Name": "Nürenberg Duruşması",
+        "Description": "In 1948, an American court in occupied Germany tries four Nazis judged for war crimes.",
+        "ReleaseDate": "1961",
+        "Time": "2h 59m",
+        "imdbb": "8.3",
+        "img": "https://m.media-amazon.com/images/M/MV5BNDc2ODQ5NTE2MV5BMl5BanBnXkFtZTcwODExMjUyNA@@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/RfOgZXIQ6fo"
+    },
+    {
+        "Name": "Ran",
+        "Description": "In Medieval Japan, an elderly warlord retires, handing over his empire to his three sons. However, he vastly underestimates how the new-found power will corrupt them and cause them to turn on each other...and him.",
+        "ReleaseDate": "1985",
+        "Time": "2h 42m",
+        "imdbb": "8.2",
+        "img": "https://m.media-amazon.com/images/M/MV5BMmU1NGYwZWYtOWExNi00ZTEyLTgwMmUtM2ZlMDVjNWM4YjVlXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/YwP_kXyd-Rw"
+    },
+    {
+        "Name": "Casino",
+        "Description": "In Las Vegas, two best friends - a mafia enforcer and a casino executive - compete for a gambling empire and a fast-living, fast-loving socialite.",
+        "ReleaseDate": "1995",
+        "Time": "2h 58m",
+        "imdbb": "8.2",
+        "img": "https://m.media-amazon.com/images/M/MV5BMTcxOWYzNDYtYmM4YS00N2NkLTk0NTAtNjg1ODgwZjAxYzI3XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/EJXDMwGWhoA"
+    },
+    {
+        "Name": "Truman Show",
+        "Description": "An insurance salesman discovers his whole life is actually a reality TV show.",
+        "ReleaseDate": "1998",
+        "Time": "1h 43m",
+        "imdbb": "8.2",
+        "img": "https://m.media-amazon.com/images/M/MV5BMDIzODcyY2EtMmY2MC00ZWVlLTgwMzAtMjQwOWUyNmJjNTYyXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/dlnmQbPGuls"
+    },
+    {
+        "Name": "Kan Dökülecek",
+        "Description": "A story of family, religion, hatred, oil and madness, focusing on a turn-of-the-century prospector in the early days of the business.",
+        "ReleaseDate": "2007",
+        "Time": "2h 38m",
+        "imdbb": "8.2",
+        "img": "https://m.media-amazon.com/images/M/MV5BMjAxODQ4MDU5NV5BMl5BanBnXkFtZTcwMDU4MjU1MQ@@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/76VLSV0FayQ"
+    },
+    {
+        "Name": "Pan'ın Labirenti",
+        "Description": "In the Falangist Spain of 1944, the bookish young stepdaughter of a sadistic army officer escapes into an eerie but captivating fantasy world.",
+        "ReleaseDate": "2006",
+        "Time": "1h 58m",
+        "imdbb": "8.2",
+        "img": "https://m.media-amazon.com/images/M/MV5BYzFjMThiMGItOWRlMC00MDI4LThmOGUtYTNlZGZiYWI1YjMyXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/xpwCx1UqtbY"
+    },
+    {
+        "Name": "Affedilmeyen",
+        "Description": "Retired Old West gunslinger William Munny reluctantly takes on one last job, with the help of his old partner Ned Logan and a young man, The \"Schofield Kid.\"",
+        "ReleaseDate": "1992",
+        "Time": "2h 10m",
+        "imdbb": "8.2",
+        "img": "https://m.media-amazon.com/images/M/MV5BODM3YWY4NmQtN2Y3Ni00OTg0LWFhZGQtZWE3ZWY4MTJlOWU4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/XUwbXvbJC08"
+    },
+    {
+        "Name": "Zindan Adası",
+        "Description": "Teddy Daniels and Chuck Aule, two US marshals, are sent to an asylum on a remote island in order to investigate the disappearance of a patient, where Teddy uncovers a shocking truth about the place.",
+        "ReleaseDate": "2010",
+        "Time": "2h 18m",
+        "imdbb": "8.2",
+        "img": "https://m.media-amazon.com/images/M/MV5BYjhmMDE4ZjktNDAxZC00MDgwLWI2YjQtNzIzNWY1MjU4OWJkXkEyXkFqcGdeQXVyOTU2NDAzNDE@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/eDIphEz4RbQ"
+    },
+    {
+        "Name": "Altıncı his",
+        "Description": "Malcolm Crowe, a child psychologist, starts treating a young boy, Cole, who encounters dead people and convinces him to help them. In turn, Cole helps Malcolm reconcile with his estranged wife.",
+        "ReleaseDate": "1999",
+        "Time": "1h 47m",
+        "imdbb": "8.2",
+        "img": "https://m.media-amazon.com/images/M/MV5BMWM4NTFhYjctNzUyNi00NGMwLTk3NTYtMDIyNTZmMzRlYmQyXkEyXkFqcGdeQXVyMTAwMzUyOTc@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/EOV1YzzyvYs"
+    },
+    {
+        "Name": "Jurassic Park",
+        "Description": "A pragmatic paleontologist touring an almost complete theme park on an island in Central America is tasked with protecting a couple of kids after a power failure causes the park's cloned dinosaurs to run loose.",
+        "ReleaseDate": "1993",
+        "Time": "2h 7m",
+        "imdbb": "8.2",
+        "img": "https://m.media-amazon.com/images/M/MV5BMjM2MDgxMDg0Nl5BMl5BanBnXkFtZTgwNTM2OTM5NDE@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/lc0UehYemQA"
+    },
+    {
+        "Name": "Akıl Oyunları",
+        "Description": "After John Nash, a brilliant but asocial mathematician, accepts secret work in cryptography, his life takes a turn for the nightmarish.",
+        "ReleaseDate": "2001",
+        "Time": "2h 15m",
+        "imdbb": "8.2",
+        "img": "https://m.media-amazon.com/images/M/MV5BMzcwYWFkYzktZjAzNC00OGY1LWI4YTgtNzc5MzVjMDVmNjY0XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/3VmIh3HHu4w"
+    },
+    {
+        "Name": "Yojimbo",
+        "Description": "A crafty ronin comes to a town divided by two criminal gangs and decides to play them against each other to free the town.",
+        "ReleaseDate": "1961",
+        "Time": "1h 50m",
+        "imdbb": "8.2",
+        "img": "https://m.media-amazon.com/images/M/MV5BZThiZjAzZjgtNDU3MC00YThhLThjYWUtZGRkYjc2ZWZlOTVjXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/y_1iT_GmHTE"
+    },
+    {
+        "Name": "Altın Hazineleri",
+        "Description": "Two down-on-their-luck Americans searching for work in 1920s Mexico convince an old prospector to help them mine for gold in the Sierra Madre Mountains.",
+        "ReleaseDate": "1948",
+        "Time": "2h 6m",
+        "imdbb": "8.2",
+        "img": "https://m.media-amazon.com/images/M/MV5BOTJlZWMxYzEtMjlkMS00ODE0LThlM2ItMDI3NGQ2YjhmMzkxXkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/sAh_xczBDwI"
+    },
+    {
+        "Name": "Monty Python ve Kutsal Kâse",
+        "Description": "King Arthur and his Knights of the Round Table embark on a surreal, low-budget search for the Holy Grail, encountering many, very silly obstacles.",
+        "ReleaseDate": "1975",
+        "Time": "1h 31m",
+        "imdbb": "8.2",
+        "img": "https://m.media-amazon.com/images/M/MV5BN2IyNTE4YzUtZWU0Mi00MGIwLTgyMmQtMzQ4YzQxYWNlYWE2XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/GBth9ii3iCc"
+    },
+    {
+        "Name": "İhtiyarlara Yer Yok",
+        "Description": "Violence and mayhem ensue after a hunter stumbles upon a drug deal gone wrong and more than two million dollars in cash near the Rio Grande.",
+        "ReleaseDate": "2007",
+        "Time": "2h 2m",
+        "imdbb": "8.2",
+        "img": "https://m.media-amazon.com/images/M/MV5BMjA5Njk3MjM4OV5BMl5BanBnXkFtZTcwMTc5MTE1MQ@@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/Ub1jYinKvTw"
+    },
+    {
+        "Name": "Bill'i Öldür: Bölüm 1",
+        "Description": "After awakening from a four-year coma, a former assassin wreaks vengeance on the team of assassins who betrayed her.",
+        "ReleaseDate": "2003",
+        "Time": "1h 51m",
+        "imdbb": "8.2",
+        "img": "https://m.media-amazon.com/images/M/MV5BNzM3NDFhYTAtYmU5Mi00NGRmLTljYjgtMDkyODQ4MjNkMGY2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/7kSuas6mRpk"
+    },
+    {
+        "Name": "Büyük Firar",
+        "Description": "Allied prisoners of war plan for several hundred of their number to escape from a German camp during World War II.",
+        "ReleaseDate": "1963",
+        "Time": "2h 52m",
+        "imdbb": "8.2",
+        "img": "https://m.media-amazon.com/images/M/MV5BNzA2NmYxMWUtNzBlMC00MWM2LTkwNmQtYTFlZjQwODNhOWE0XkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/IxMV2Fi5Xbg"
+    },
+    {
+        "Name": "Rasomon: Sarı Irkın Şehveti",
+        "Description": "The rape of a bride and the murder of her samurai husband are recalled from the perspectives of a bandit, the bride, the samurai's ghost and a woodcutter.",
+        "ReleaseDate": "1950",
+        "Time": "1h 28m",
+        "imdbb": "8.2",
+        "img": "https://m.media-amazon.com/images/M/MV5BMjA2ODE1NjM0NV5BMl5BanBnXkFtZTcwNDc5MDI2NQ@@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/Zqoyl2p8_lw"
+    },
+    {
+        "Name": "Galaksinin Koruyucuları 3",
+        "Description": "Still reeling from the loss of Gamora, Peter Quill rallies his team to defend the universe and one of their own - a mission that could mean the end of the Guardians if not successful.",
+        "ReleaseDate": "2023",
+        "Time": "2h 30m",
+        "imdbb": "8.2",
+        "img": "https://m.media-amazon.com/images/M/MV5BMDgxOTdjMzYtZGQxMS00ZTAzLWI4Y2UtMTQzN2VlYjYyZWRiXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/u6tu-P0xi_0"
+    },
+    {
+        "Name": "Şey",
+        "Description": "A research team in Antarctica is hunted by a shape-shifting alien that assumes the appearance of its victims.",
+        "ReleaseDate": "1982",
+        "Time": "1h 49m",
+        "imdbb": "8.2",
+        "img": "https://m.media-amazon.com/images/M/MV5BNGViZWZmM2EtNGYzZi00ZDAyLTk3ODMtNzIyZTBjN2Y1NmM1XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/7CZ3r2k6sEs"
+    },
+    {
+        "Name": "Kayıp Balık Nemo",
+        "Description": "After his son is captured in the Great Barrier Reef and taken to Sydney, a timid clownfish sets out on a journey to bring him home.",
+        "ReleaseDate": "2003",
+        "Time": "1h 40m",
+        "imdbb": "8.2",
+        "img": "https://m.media-amazon.com/images/M/MV5BNjY3MjcxZjctZGIzMS00MjJmLWI2YTQtNGE2NWYyZDc4NDIzXkEyXkFqcGdeQXVyOTgxMDMxNTc@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/kkrMNimjo_M"
+    },
+    {
+        "Name": "Örümcek Adam: Eve Dönüş Yok",
+        "Description": "With Spider-Man's identity now revealed, Peter asks Doctor Strange for help. When a spell goes wrong, dangerous foes from other worlds start to appear, forcing Peter to discover what it truly means to be Spider-Man.",
+        "ReleaseDate": "2021",
+        "Time": "2h 28m",
+        "imdbb": "8.2",
+        "img": "https://m.media-amazon.com/images/M/MV5BZDMzOTU0MzMtMzY1Yi00YWQ4LTg5M2EtNTNmYjdhZWViN2M1XkEyXkFqcGdeQXVyMTYwMDIyNzk1._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/mQ_F_0jA59k"
+    },
+    {
+        "Name": "Fil Adam",
+        "Description": "A Victorian surgeon rescues a heavily disfigured man who is mistreated while scraping a living as a side-show freak. Behind his monstrous façade, there is revealed a person of kindness, intelligence and sophistication.",
+        "ReleaseDate": "1980",
+        "Time": "2h 4m",
+        "imdbb": "8.2",
+        "img": "https://m.media-amazon.com/images/M/MV5BMDVjNjIwOGItNDE3Ny00OThjLWE0NzQtZTU3YjMzZTZjMzhkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/9pQLDcibGjw"
+    },
+    {
+        "Name": "Çin Mahallesi",
+        "Description": "A private detective hired to expose an adulterer in 1930s Los Angeles finds himself caught up in a web of deceit, corruption, and murder.",
+        "ReleaseDate": "1974",
+        "Time": "2h 10m",
+        "imdbb": "8.2",
+        "img": "https://m.media-amazon.com/images/M/MV5BMjJkMDZhYzItZTFhMi00ZGI4LThlNTAtZDNlYmEwNjFkNDYzXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/T37QkBc4IGY"
+    },
+    {
+        "Name": "Kızgın Boğa",
+        "Description": "The life of boxer Jake LaMotta, whose violence and temper that led him to the top in the ring destroyed his life outside of it.",
+        "ReleaseDate": "1980",
+        "Time": "2h 9m",
+        "imdbb": "8.1",
+        "img": "https://m.media-amazon.com/images/M/MV5BYjRmODkzNDItMTNhNi00YjJlLTg0ZjAtODlhZTM0YzgzYThlXkEyXkFqcGdeQXVyNzQ1ODk3MTQ@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/frm0Zy9Hkdw"
+    },
+    {
+        "Name": "V - V for Vendetta",
+        "Description": "In a future British dystopian society, a shadowy freedom fighter, known only by the alias of \"V\", plots to overthrow the tyrannical government - with the help of a young woman.",
+        "ReleaseDate": "2005",
+        "Time": "2h 12m",
+        "imdbb": "8.2",
+        "img": "https://m.media-amazon.com/images/M/MV5BOTI5ODc3NzExNV5BMl5BanBnXkFtZTcwNzYxNzQzMw@@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/lSA7mAHolAw"
+    },
+    {
+        "Name": "Rüzgâr gibi geçti",
+        "Description": "A sheltered and manipulative Southern belle and a roguish profiteer face off in a turbulent romance as the society around them crumbles with the end of slavery and is rebuilt during the Civil War and Reconstruction periods.",
+        "ReleaseDate": "1939",
+        "Time": "3h 58m",
+        "imdbb": "8.2",
+        "img": "https://m.media-amazon.com/images/M/MV5BYjUyZWZkM2UtMzYxYy00ZmQ3LWFmZTQtOGE2YjBkNjA3YWZlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/T4MBWXYUvuA"
+    },
+    {
+        "Name": "Cinayet var",
+        "Description": "A former tennis star arranges the murder of his adulterous wife.",
+        "ReleaseDate": "1954",
+        "Time": "1h 45m",
+        "imdbb": "8.2",
+        "img": "https://m.media-amazon.com/images/M/MV5BOWIwODIxYWItZDI4MS00YzhhLWE3MmYtMzlhZDIwOTMzZmE5L2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/TRfAs2qnlh0"
+    },
+    {
+        "Name": "Ateşten kalbe akıldan dumana",
+        "Description": "Eddy persuades his three pals to pool money for a vital poker game against a powerful local mobster, Hatchet Harry. Eddy loses, after which Harry gives him a week to pay back 500,000 pounds.",
+        "ReleaseDate": "1998",
+        "Time": "1h 47m",
+        "imdbb": "8.1",
+        "img": "https://m.media-amazon.com/images/M/MV5BMTAyN2JmZmEtNjAyMy00NzYwLThmY2MtYWQ3OGNhNjExMmM4XkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/a1nfuMo4bLs"
+    },
+    {
+        "Name": "Ters Yüz",
+        "Description": "After young Riley is uprooted from her Midwest life and moved to San Francisco, her emotions - Joy, Fear, Anger, Disgust and Sadness - conflict on how best to navigate a new city, house, and school.",
+        "ReleaseDate": "2015",
+        "Time": "1h 35m",
+        "imdbb": "8.1",
+        "img": "https://m.media-amazon.com/images/M/MV5BZDRmZTc0YmEtMmI0My00M2EyLTg4M2ItMGIxNDM1NzM3MmVhXkEyXkFqcGdeQXVyOTU2NDAzNDE@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/RWnbNU-V-1U"
+    },
+    {
+        "Name": "Yürüyen Şato",
+        "Description": "When an unconfident young woman is cursed with an old body by a spiteful witch, her only chance of breaking the spell lies with a self-indulgent yet insecure young wizard and his companions in his legged, walking castle.",
+        "ReleaseDate": "2004",
+        "Time": "1h 59m",
+        "imdbb": "8.2",
+        "img": "https://m.media-amazon.com/images/M/MV5BNmM4YTFmMmItMGE3Yy00MmRkLTlmZGEtMzZlOTQzYjk3MzA2XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/91ljAXQsymo"
+    },
+    {
+        "Name": "Gözlerindeki Sır",
+        "Description": "A retired legal counselor writes a novel hoping to find closure for one of his past unresolved homicide cases and for his unreciprocated love with his superior - both of which still haunt him decades later.",
+        "ReleaseDate": "2009",
+        "Time": "2h 9m",
+        "imdbb": "8.2",
+        "img": "https://m.media-amazon.com/images/M/MV5BY2FhZGI5M2QtZWFiZS00NjkwLWE4NWQtMzg3ZDZjNjdkYTJiXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/4wcwY99wj8g"
+    },
+    {
+        "Name": "Üç Billboard Ebbing Çıkışı, Missouri",
+        "Description": "A mother personally challenges the local authorities to solve her daughter's murder when they fail to catch the culprit.",
+        "ReleaseDate": "2017",
+        "Time": "1h 55m",
+        "imdbb": "8.1",
+        "img": "https://m.media-amazon.com/images/M/MV5BY2RiNTMzMmMtMDlkYi00YWVlLTllNTEtZDY5YTFhZmU3MTgzXkEyXkFqcGdeQXVyMzg2MzE2OTE@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/EuY4ED-N8Xg"
+    },
+    {
+        "Name": "Trainspotting",
+        "Description": "Renton, deeply immersed in the Edinburgh drug scene, tries to clean up and get out, despite the allure of the drugs and influence of friends.",
+        "ReleaseDate": "1996",
+        "Time": "1h 33m",
+        "imdbb": "8.1",
+        "img": "https://m.media-amazon.com/images/M/MV5BMzA5Zjc3ZTMtMmU5YS00YTMwLWI4MWUtYTU0YTVmNjVmODZhXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/8LuxOYIpu-I"
+    },
+    {
+        "Name": "Tutsak",
+        "Description": "When Keller Dover's daughter and her friend go missing, he takes matters into his own hands as the police pursue multiple leads and the pressure mounts.",
+        "ReleaseDate": "2013",
+        "Time": "2h 33m",
+        "imdbb": "8.1",
+        "img": "https://m.media-amazon.com/images/M/MV5BMTg0NTIzMjQ1NV5BMl5BanBnXkFtZTcwNDc3MzM5OQ@@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/ipqARUF38n0"
+    },
+    {
+        "Name": "Kwai Köprüsü",
+        "Description": "British POWs are forced to build a railway bridge across the river Kwai for their Japanese captors in occupied Burma, not knowing that the allied forces are planning a daring commando raid through the jungle to destroy it.",
+        "ReleaseDate": "1957",
+        "Time": "2h 41m",
+        "imdbb": "8.1",
+        "img": "https://m.media-amazon.com/images/M/MV5BOGY5NmNlMmQtYzRlYy00NGQ5LWFkYjYtNzExZmQyMTg0ZDA0XkEyXkFqcGdeQXVyNDIzMzcwNjc@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/2DZFxCs8uKg"
+    },
+    {
+        "Name": "Fargo",
+        "Description": "Various chronicles of deception, intrigue and murder in and around frozen Minnesota. Yet all of these tales mysteriously lead back one way or another to Fargo, North Dakota.",
+        "ReleaseDate": "No information",
+        "Time": "TV-MA",
+        "imdbb": "8.9",
+        "img": "https://m.media-amazon.com/images/M/MV5BN2NiMGE5M2UtNWNlNC00N2Y4LTkwOWUtMDlkMzEwNTcyOTcyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/ju75Sd4yAZw"
+    },
+    {
+        "Name": "Büyük Dövüş",
+        "Description": "The youngest son of an alcoholic former boxer returns home, where he's trained by his father for competition in a mixed martial arts tournament - a path that puts the fighter on a collision course with his estranged, older brother.",
+        "ReleaseDate": "2011",
+        "Time": "2h 20m",
+        "imdbb": "8.1",
+        "img": "https://m.media-amazon.com/images/M/MV5BMTk4ODk5MTMyNV5BMl5BanBnXkFtZTcwMDMyNTg0Ng@@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/I5kzcwcQA1Q"
+    },
+    {
+        "Name": "Gran Torino",
+        "Description": "After a Hmong teenager tries to steal his prized 1972 Gran Torino, a disgruntled, prejudiced Korean War veteran seeks to redeem both the boy and himself.",
+        "ReleaseDate": "2008",
+        "Time": "1h 56m",
+        "imdbb": "8.1",
+        "img": "https://m.media-amazon.com/images/M/MV5BMTc5NTk2OTU1Nl5BMl5BanBnXkFtZTcwMDc3NjAwMg@@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/RMhbr2XQblk"
+    },
+    {
+        "Name": "Sıkıysa Yakala",
+        "Description": "Barely 21 yet, Frank is a skilled forger who has passed as a doctor, lawyer and pilot. FBI agent Carl becomes obsessed with tracking down the con man, who only revels in the pursuit.",
+        "ReleaseDate": "2002",
+        "Time": "2h 21m",
+        "imdbb": "8.1",
+        "img": "https://m.media-amazon.com/images/M/MV5BMTY5MzYzNjc5NV5BMl5BanBnXkFtZTYwNTUyNTc2._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/_ZXsjmrxebQ"
+    },
+    {
+        "Name": "Komşum Totoro",
+        "Description": "When two girls move to the country to be near their ailing mother, they have adventures with the wondrous forest spirits who live nearby.",
+        "ReleaseDate": "1988",
+        "Time": "1h 26m",
+        "imdbb": "8.1",
+        "img": "https://m.media-amazon.com/images/M/MV5BYzJjMTYyMjQtZDI0My00ZjE2LTkyNGYtOTllNGQxNDMyZjE0XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/92a7Hj0ijLs"
+    },
+    {
+        "Name": "Milyonluk Bebek",
+        "Description": "Frankie, an ill-tempered old coach, reluctantly agrees to train aspiring boxer Maggie. Impressed with her determination and talent, he helps her become the best and the two soon form a close bond.",
+        "ReleaseDate": "2004",
+        "Time": "2h 12m",
+        "imdbb": "8.1",
+        "img": "https://m.media-amazon.com/images/M/MV5BMTkxNzA1NDQxOV5BMl5BanBnXkFtZTcwNTkyMTIzMw@@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/5_RsHRmIRBY"
+    },
+    {
+        "Name": "Cennetin çocukları",
+        "Description": "After a boy loses his sister's pair of shoes, he goes on a series of adventures in order to find them. When he can't, he tries a new way to \"win\" a new pair.",
+        "ReleaseDate": "1997",
+        "Time": "1h 29m",
+        "imdbb": "8.2",
+        "img": "https://m.media-amazon.com/images/M/MV5BY2Q0MmVkYzYtZGZiOC00YTg5LTk3ZmItMWVhYjc2NTU4OTVjXkEyXkFqcGdeQXVyMTQ5ODkzMDk@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/Awtul6csekM"
+    },
+    {
+        "Name": "Ölüm Takibi",
+        "Description": "A blade runner must pursue and terminate four replicants who stole a ship in space and have returned to Earth to find their creator.",
+        "ReleaseDate": "1982",
+        "Time": "1h 57m",
+        "imdbb": "8.1",
+        "img": "https://m.media-amazon.com/images/M/MV5BNzQzMzJhZTEtOWM4NS00MTdhLTg0YjgtMjM4MDRkZjUwZDBlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/bsgcpU9P14U"
+    },
+    {
+        "Name": "Altına hücum",
+        "Description": "A prospector goes to the Klondike during the 1890s gold rush in hopes of making his fortune, and is smitten with a girl he sees in a dance hall.",
+        "ReleaseDate": "1925",
+        "Time": "1h 35m",
+        "imdbb": "8.1",
+        "img": "https://m.media-amazon.com/images/M/MV5BODI0NTFkMTItOTYyNC00MzQ4LTgzZWMtMzdhMDAyOWU5YjA5XkEyXkFqcGdeQXVyNzQ1ODk3MTQ@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/DFxOAhAZu2Q"
+    },
+    {
+        "Name": "Klaus: Sihirli Plan",
+        "Description": "A simple act of kindness always sparks another, even in a frozen, faraway place. When Smeerensburg's new postman, Jesper, befriends toymaker Klaus, their gifts melt an age-old feud and deliver a sleigh full of holiday traditions.",
+        "ReleaseDate": "2019",
+        "Time": "1h 36m",
+        "imdbb": "8.2",
+        "img": "https://m.media-amazon.com/images/M/MV5BM2Q2Njg3ZmQtMDlmZi00NzE5LWJlOWYtY2I5NzhiZDdmNTk3XkEyXkFqcGdeQXVyODc0OTEyNDU@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/nRrG4r1lAMg"
+    },
+    {
+        "Name": "Harry Potter ve Ölüm Yadigârları: Bölüm 2",
+        "Description": "Harry, Ron, and Hermione search for Voldemort's remaining Horcruxes in their effort to destroy the Dark Lord as the final battle rages on at Hogwarts.",
+        "ReleaseDate": "2011",
+        "Time": "2h 10m",
+        "imdbb": "8.1",
+        "img": "https://m.media-amazon.com/images/M/MV5BNDUxZDhmNjUtMjY5ZC00YTdmLTk1Y2YtNjBiZmJlMjNiNWM5XkEyXkFqcGdeQXVyOTgxMDMxNTc@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/CiacniJiiZQ"
+    },
+    {
+        "Name": "Gün Doğmadan",
+        "Description": "A young man and woman meet on a train in Europe, and wind up spending one evening together in Vienna. Unfortunately, both know that this will probably be their only night together.",
+        "ReleaseDate": "1995",
+        "Time": "1h 41m",
+        "imdbb": "8.1",
+        "img": "https://m.media-amazon.com/images/M/MV5BZDdiZTAwYzAtMDI3Ni00OTRjLTkzN2UtMGE3MDMyZmU4NTU4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/GaO4jAwdkOs"
+    },
+    {
+        "Name": "12 Yıllık Esaret",
+        "Description": "In the antebellum United States, Solomon Northup, a free black man from upstate New York, is abducted and sold into slavery.",
+        "ReleaseDate": "2013",
+        "Time": "2h 14m",
+        "imdbb": "8.1",
+        "img": "https://m.media-amazon.com/images/M/MV5BMjExMTEzODkyN15BMl5BanBnXkFtZTcwNTU4NTc4OQ@@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/hR09tZXSuPQ"
+    },
+    {
+        "Name": "Ben-Hur",
+        "Description": "After a Jewish prince is betrayed and sent into slavery by a Roman friend in 1st-century Jerusalem, he regains his freedom and comes back for revenge.",
+        "ReleaseDate": "1959",
+        "Time": "3h 32m",
+        "imdbb": "8.1",
+        "img": "https://m.media-amazon.com/images/M/MV5BNjgxY2JiZDYtZmMwOC00ZmJjLWJmODUtMTNmNWNmYWI5ODkwL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/3BmeR9GYdDU"
+    },
+    {
+        "Name": "Büyük Budapeşte Oteli",
+        "Description": "A writer encounters the owner of an aging high-class hotel, who tells him of his early years serving as a lobby boy in the hotel's glorious years under an exceptional concierge.",
+        "ReleaseDate": "2014",
+        "Time": "1h 39m",
+        "imdbb": "8.1",
+        "img": "https://m.media-amazon.com/images/M/MV5BMzM5NjUxOTEyMl5BMl5BanBnXkFtZTgwNjEyMDM0MDE@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/w0e_zqphqH0"
+    },
+    {
+        "Name": "Rıhtımlar Üstünde",
+        "Description": "An ex-prize fighter turned New Jersey longshoreman struggles to stand up to his corrupt union bosses, including his older brother, as he starts to connect with the grieving sister of one of the syndicate's victims.",
+        "ReleaseDate": "1954",
+        "Time": "1h 48m",
+        "imdbb": "8.1",
+        "img": "https://m.media-amazon.com/images/M/MV5BY2I0MWFiZDMtNWQyYy00Njk5LTk3MDktZjZjNTNmZmVkYjkxXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/vjQXviR2SCg"
+    },
+    {
+        "Name": "Kayıp Kız",
+        "Description": "With his wife's disappearance having become the focus of an intense media circus, a man sees the spotlight turned on him when it's suspected that he may not be innocent.",
+        "ReleaseDate": "2014",
+        "Time": "2h 29m",
+        "imdbb": "8.1",
+        "img": "https://m.media-amazon.com/images/M/MV5BMTk0MDQ3MzAzOV5BMl5BanBnXkFtZTgwNzU1NzE3MjE@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/TRQFPZj0TLo"
+    },
+    {
+        "Name": "General",
+        "Description": "Families, friends, enemies, and lovers experience life-changing events in the large upstate city of Port Charles, New York, which has a busy hospital, upscale hotel, cozy diner, and dangerous waterfront frequented by the criminal underworld.",
+        "ReleaseDate": "No information",
+        "Time": "TV-PG",
+        "imdbb": "6.6",
+        "img": "https://m.media-amazon.com/images/M/MV5BMTA3MTIyYjQtOWJjZS00NjUyLThhMjYtMjhhODA4MmZhNmZkXkEyXkFqcGdeQXVyNTkzNjEwMjI@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/7EcZPcFfjqY"
+    },
+    {
+        "Name": "Barry Lyndon",
+        "Description": "An Irish rogue wins the heart of a rich widow and assumes her dead husband's aristocratic position in 18th-century England.",
+        "ReleaseDate": "1975",
+        "Time": "3h 5m",
+        "imdbb": "8.1",
+        "img": "https://m.media-amazon.com/images/M/MV5BNmY0MWY2NDctZDdmMi00MjA1LTk0ZTQtZDMyZTQ1NTNlYzVjXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/XjPSGuJskxM"
+    },
+    {
+        "Name": "Yaban Çilekleri",
+        "Description": "After living a life marked by coldness, an aging professor is forced to confront the emptiness of his existence.",
+        "ReleaseDate": "1957",
+        "Time": "1h 31m",
+        "imdbb": "8.1",
+        "img": "https://m.media-amazon.com/images/M/MV5BYWQxYzdhMDMtNjAyZC00NzE0LWFjYmQtYjk0YzMyYjA5NzZkXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/J34hmCrjhMc"
+    },
+    {
+        "Name": "Babam İçin",
+        "Description": "A man's coerced confession to an I.R.A. bombing he did not commit results in the imprisonment of his father as well. An English lawyer fights to free them.",
+        "ReleaseDate": "1993",
+        "Time": "2h 13m",
+        "imdbb": "8.1",
+        "img": "https://m.media-amazon.com/images/M/MV5BMmYyOTgwYWItYmU3Ny00M2E2LTk0NWMtMDVlNmQ0MWZiMTMxXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/LvXcub1oWFs"
+    },
+    {
+        "Name": "Avcı",
+        "Description": "An in-depth examination of the ways in which the Vietnam War impacts and disrupts the lives of several friends in a small steel mill town in Pennsylvania.",
+        "ReleaseDate": "1978",
+        "Time": "3h 3m",
+        "imdbb": "8.1",
+        "img": "https://m.media-amazon.com/images/M/MV5BNDhmNTA0ZDMtYjhkNS00NzEzLWIzYTItOGNkMTVmYjE2YmI3XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/fhKHs3aK3qA"
+    },
+    {
+        "Name": "Savaş Vadisi",
+        "Description": "World War II American Army Medic Desmond T. Doss, who served during the Battle of Okinawa, refuses to kill people and becomes the first man in American history to receive the Medal of Honor without firing a shot.",
+        "ReleaseDate": "2016",
+        "Time": "2h 19m",
+        "imdbb": "8.1",
+        "img": "https://m.media-amazon.com/images/M/MV5BMjQ1NjM3MTUxNV5BMl5BanBnXkFtZTgwMDc5MTY5OTE@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/mmNAhz5J1dw"
+    },
+    {
+        "Name": "Üçüncü Adam Kim?",
+        "Description": "Pulp novelist Holly Martins travels to shadowy, postwar Vienna, only to find himself investigating the mysterious death of an old friend, Harry Lime.",
+        "ReleaseDate": "1949",
+        "Time": "1h 44m",
+        "imdbb": "8.1",
+        "img": "https://m.media-amazon.com/images/M/MV5BYjE2OTdhMWUtOGJlMy00ZDViLWIzZjgtYjZkZGZmMDZjYmEyXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/r9yyDEDGlr0"
+    },
+    {
+        "Name": "Cinayet Günlüğü",
+        "Description": "In a small Korean province in 1986, two detectives struggle with the case of multiple young women being found raped and murdered by an unknown culprit.",
+        "ReleaseDate": "2003",
+        "Time": "2h 11m",
+        "imdbb": "8.1",
+        "img": "https://m.media-amazon.com/images/M/MV5BOGViNTg4YTktYTQ2Ni00MTU0LTk2NWUtMTI4OTc1YTM0NzQ2XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/IWWDdqjMcIc"
+    },
+    {
+        "Name": "Dehşet yolcuları",
+        "Description": "In a decrepit South American village, four men are hired to transport an urgent nitroglycerine shipment without the equipment that would make it safe.",
+        "ReleaseDate": "1953",
+        "Time": "2h 11m",
+        "imdbb": "8.2",
+        "img": "https://m.media-amazon.com/images/M/MV5BZDdkNzMwZmUtY2Q5MS00ZmM2LWJhYjItYTBjMWY0MGM4MDRjXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/2_0OrSG5RWA"
+    },
+    {
+        "Name": "Sherlock Jr.",
+        "Description": "A film projectionist longs to be a detective, and puts his meagre skills to work when he is framed by a rival for stealing his girlfriend's father's pocketwatch.",
+        "ReleaseDate": "1924",
+        "Time": "45m",
+        "imdbb": "8.2",
+        "img": "https://m.media-amazon.com/images/M/MV5BZWFhOGU5NDctY2Q3YS00Y2VlLWI1NzEtZmIwY2ZiZjY4OTA2XkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/JSEK1NUPrGA"
+    },
+    {
+        "Name": "Asabiyim Ben",
+        "Description": "Six short stories that explore the extremities of human behavior involving people in distress.",
+        "ReleaseDate": "2014",
+        "Time": "2h 2m",
+        "imdbb": "8.1",
+        "img": "https://m.media-amazon.com/images/M/MV5BMGQwMDM3ZTktNjkyNC00OTI5LTg1NDItYjZkZTY0OGFhODdhXkEyXkFqcGdeQXVyNzI1NzMxNzM@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/tb_eTVVLO3Y"
+    },
+    {
+        "Name": "Mr. Smith Washington'a Gidiyor",
+        "Description": "A naive youth leader is appointed to fill a vacancy in the U.S. Senate. His idealistic plans promptly collide with corruption at home and subterfuge from his hero in Washington, but he tries to forge ahead despite attacks on his character.",
+        "ReleaseDate": "1939",
+        "Time": "2h 9m",
+        "imdbb": "8.1",
+        "img": "https://m.media-amazon.com/images/M/MV5BZTYwYjYxYzgtMDE1Ni00NzU4LWJlMTEtODQ5YmJmMGJhZjI5L2ltYWdlXkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/bXoF7w6IWAc"
+    },
+    {
+        "Name": "Çılgın Max: Öfkeli Yollar",
+        "Description": "In a post-apocalyptic wasteland, a woman rebels against a tyrannical ruler in search for her homeland with the aid of a group of female prisoners, a psychotic worshiper and a drifter named Max.",
+        "ReleaseDate": "2015",
+        "Time": "2h",
+        "imdbb": "8.1",
+        "img": "https://m.media-amazon.com/images/M/MV5BN2EwM2I5OWMtMGQyMi00Zjg1LWJkNTctZTdjYTA4OGUwZjMyXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/iGieELbH5N4"
+    },
+    {
+        "Name": "Mary ve Max",
+        "Description": "A tale of friendship between two unlikely pen pals: Mary, a lonely, eight-year-old girl living in the suburbs of Melbourne, and Max, a forty-four-year old, severely obese man living in New York.",
+        "ReleaseDate": "2009",
+        "Time": "1h 32m",
+        "imdbb": "8.1",
+        "img": "https://m.media-amazon.com/images/M/MV5BMDgzYjQwMDMtNGUzYi00MTRmLWIyMGMtNjE1OGZkNzY2YWIzL2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/p1W_mpSydYI"
+    },
+    {
+        "Name": "Sevimli Canavarlar",
+        "Description": "In order to power the city, monsters have to scare children so that they scream. However, the children are toxic to the monsters, and after a child gets through, two monsters realize things may not be what they think.",
+        "ReleaseDate": "2001",
+        "Time": "1h 32m",
+        "imdbb": "8.1",
+        "img": "https://m.media-amazon.com/images/M/MV5BZTA4M2FhMzctYWY1Yy00YmNkLTlhMGEtODY4NTg0NjgyMDAwXkEyXkFqcGdeQXVyOTgxMDMxNTc@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/08XoehxrCus"
+    },
+    {
+        "Name": "Ölü Ozanlar Derneği",
+        "Description": "Maverick teacher John Keating uses poetry to embolden his boarding school students to new heights of self-expression.",
+        "ReleaseDate": "1989",
+        "Time": "2h 8m",
+        "imdbb": "8.1",
+        "img": "https://m.media-amazon.com/images/M/MV5BYWU0ZDgyYjQtZDI0OS00NTI0LTlmYjMtYzZlZTg4MGNiMjdjXkEyXkFqcGdeQXVyOTU2NDAzNDE@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/yeoQHi-vpkY"
+    },
+    {
+        "Name": "Ejderhanı Nasıl Eğitirsin",
+        "Description": "A hapless young Viking who aspires to hunt dragons becomes the unlikely friend of a young dragon himself, and learns there may be more to the creatures than he assumed.",
+        "ReleaseDate": "2010",
+        "Time": "1h 38m",
+        "imdbb": "8.1",
+        "img": "https://m.media-amazon.com/images/M/MV5BMjA5NDQyMjc2NF5BMl5BanBnXkFtZTcwMjg5ODcyMw@@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/E73btLlzXmA"
+    },
+    {
+        "Name": "Yedinci Mühür",
+        "Description": "A knight returning to Sweden after the Crusades seeks answers about life, death, and the existence of God as he plays chess against the Grim Reaper during the Black Plague.",
+        "ReleaseDate": "1957",
+        "Time": "1h 36m",
+        "imdbb": "8.1",
+        "img": "https://m.media-amazon.com/images/M/MV5BOWM3MmE0OGYtOGVlNC00OWE1LTk5ZTAtYmUwMDIwM2ZlNWJiXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/mxTM1hDWnZU"
+    },
+    {
+        "Name": "Jaws",
+        "Description": "When a killer shark unleashes chaos on a beach community off Cape Cod, it's up to a local sheriff, a marine biologist, and an old seafarer to hunt the beast down.",
+        "ReleaseDate": "1975",
+        "Time": "2h 4m",
+        "imdbb": "8.1",
+        "img": "https://m.media-amazon.com/images/M/MV5BMmVmODY1MzEtYTMwZC00MzNhLWFkNDMtZjAwM2EwODUxZTA5XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/U1fu_sA7XhE"
+    },
+    {
+        "Name": "Gizli Dünya",
+        "Description": "A little boy is held captive in a room with his mother since his birth, so he has never known the world outside.",
+        "ReleaseDate": "2015",
+        "Time": "1h 58m",
+        "imdbb": "8.1",
+        "img": "https://m.media-amazon.com/images/M/MV5BMmVkZDBkNWQtZGE0Mi00N2JlLWFmYTgtZTJhNDNkZjA2YWQ1XkEyXkFqcGdeQXVyOTU2NDAzNDE@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/E_Ci-pAL4eE"
+    },
+    {
+        "Name": "Büyük Lebowski",
+        "Description": "Ultimate L.A. slacker Jeff \"The Dude\" Lebowski, mistaken for a millionaire of the same name, seeks restitution for a rug ruined by debt collectors, enlisting his bowling buddies for help while trying to find the millionaire's missing wife.",
+        "ReleaseDate": "1998",
+        "Time": "1h 57m",
+        "imdbb": "8.1",
+        "img": "https://m.media-amazon.com/images/M/MV5BY2YxMjQxYjctYTQyOC00MDYxLTgxYjItYTVkYTg5OTFjNmUwXkEyXkFqcGdeQXVyMjI0NTA4NzA@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/cd-go0oBF4Y"
+    },
+    {
+        "Name": "Tokyo Hikâyesi",
+        "Description": "An old couple visit their children and grandchildren in the city, but receive little attention.",
+        "ReleaseDate": "1953",
+        "Time": "2h 16m",
+        "imdbb": "8.2",
+        "img": "https://m.media-amazon.com/images/M/MV5BYWQ4ZTRiODktNjAzZC00Nzg1LTk1YWQtNDFmNDI0NmZiNGIwXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/5zEKw4VQIeY"
+    },
+    {
+        "Name": "Asfaltın Kralları",
+        "Description": "American car designer Carroll Shelby and driver Ken Miles battle corporate interference and the laws of physics to build a revolutionary race car for Ford in order to defeat Ferrari at the 24 Hours of Le Mans in 1966.",
+        "ReleaseDate": "2019",
+        "Time": "2h 32m",
+        "imdbb": "8.1",
+        "img": "https://m.media-amazon.com/images/M/MV5BZjM5M2MyMGEtODZiMi00MGVkLWI4ZjEtNWUwMzZmZTJhZDlkXkEyXkFqcGdeQXVyODMwNjE2OTM@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/e8v_dqYvPx8"
+    },
+    {
+        "Name": "La passion de Jeanne d'Arc",
+        "Description": "In 1431, Jeanne d'Arc is placed on trial on charges of heresy. The ecclesiastical jurists attempt to force Jeanne to recant her claims of holy visions.",
+        "ReleaseDate": "1928",
+        "Time": "1h 50m",
+        "imdbb": "8.2",
+        "img": "https://m.media-amazon.com/images/M/MV5BNjBjNDJiYTUtOWY0OS00OGVmLTg2YzctMTE0NzVhODM1ZWJmXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/IQAchMdy__8"
+    },
+    {
+        "Name": "Ruanda Oteli",
+        "Description": "Paul Rusesabagina, a hotel manager, houses over a thousand Tutsi refugees during their struggle against the Hutu militia in Rwanda, Africa.",
+        "ReleaseDate": "2004",
+        "Time": "2h 1m",
+        "imdbb": "8.1",
+        "img": "https://m.media-amazon.com/images/M/MV5BZGJjYmIzZmQtNWE4Yy00ZGVmLWJkZGEtMzUzNmQ4ZWFlMjRhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/2x8UzELvKlY"
+    },
+    {
+        "Name": "Rocky",
+        "Description": "A small-time Philadelphia boxer gets a supremely rare chance to fight the world heavyweight champion in a bout in which he strives to go the distance for his self-respect.",
+        "ReleaseDate": "1976",
+        "Time": "2h",
+        "imdbb": "8.1",
+        "img": "https://m.media-amazon.com/images/M/MV5BNjJiNjVhNjktZDE4Zi00MjBiLWE5M2MtNGFhN2QwMTVkYzAzXkEyXkFqcGdeQXVyMTYwMDIyNzk1._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/7RYpJAUMo2M"
+    },
+    {
+        "Name": "Ratatuy",
+        "Description": "A rat who can cook makes an unusual alliance with a young kitchen worker at a famous Paris restaurant.",
+        "ReleaseDate": "2007",
+        "Time": "1h 51m",
+        "imdbb": "8.1",
+        "img": "https://m.media-amazon.com/images/M/MV5BMTMzODU0NTkxMF5BMl5BanBnXkFtZTcwMjQ4MzMzMw@@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/lSpJLKUdnok"
+    },
+    {
+        "Name": "Müfreze",
+        "Description": "Chris Taylor, a neophyte recruit in Vietnam, finds himself caught in a battle of wills between two sergeants, one good and the other evil. A shrewd examination of the brutality of war and the duality of man in conflict.",
+        "ReleaseDate": "1986",
+        "Time": "2h",
+        "imdbb": "8.1",
+        "img": "https://m.media-amazon.com/images/M/MV5BMzRjZjdlMjQtODVkYS00N2YzLWJlYWYtMGVlN2E5MWEwMWQzXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/lWOVxCrgIYA"
+    },
+    {
+        "Name": "X-Men: Logan",
+        "Description": "In a future where mutants are nearly extinct, an elderly and weary Logan leads a quiet life. But when Laura, a mutant child pursued by scientists, comes to him for help, he must get her to safety.",
+        "ReleaseDate": "2017",
+        "Time": "2h 17m",
+        "imdbb": "8.1",
+        "img": "https://m.media-amazon.com/images/M/MV5BYzc5MTU4N2EtYTkyMi00NjdhLTg3NWEtMTY4OTEyMzJhZTAzXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/Div0iP65aZo"
+    },
+    {
+        "Name": "Spotlight",
+        "Description": "The true story of how the Boston Globe uncovered the massive scandal of child molestation and cover-up within the local Catholic Archdiocese, shaking the entire Catholic Church to its core.",
+        "ReleaseDate": "2015",
+        "Time": "2h 9m",
+        "imdbb": "8.1",
+        "img": "https://m.media-amazon.com/images/M/MV5BMjIyOTM5OTIzNV5BMl5BanBnXkFtZTgwMDkzODE2NjE@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/EwdCIpbTN5g"
+    },
+    {
+        "Name": "Terminatör: Yok Edici",
+        "Description": "A human soldier is sent from 2029 to 1984 to stop an almost indestructible cyborg killing machine, sent from the same year, which has been programmed to execute a young woman whose unborn son is the key to humanity's future salvation.",
+        "ReleaseDate": "1984",
+        "Time": "1h 47m",
+        "imdbb": "8.1",
+        "img": "https://m.media-amazon.com/images/M/MV5BYTViNzMxZjEtZGEwNy00MDNiLWIzNGQtZDY2MjQ1OWViZjFmXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/o9cU6iJ9jvo"
+    },
+    {
+        "Name": "Benimle kal",
+        "Description": "After the death of one of his friends, a writer recounts a childhood journey with his friends to find the body of a missing boy.",
+        "ReleaseDate": "1986",
+        "Time": "1h 29m",
+        "imdbb": "8.1",
+        "img": "https://m.media-amazon.com/images/M/MV5BODJmY2Y2OGQtMDg2My00N2Q3LWJmZTUtYTc2ODBjZDVlNDlhXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/5e7USWdXH2k"
+    },
+    {
+        "Name": "Zafere Hücum",
+        "Description": "The merciless 1970s rivalry between Formula One rivals James Hunt and Niki Lauda.",
+        "ReleaseDate": "2013",
+        "Time": "2h 3m",
+        "imdbb": "8.1",
+        "img": "https://m.media-amazon.com/images/M/MV5BOWEwODJmZDItYTNmZC00OGM4LThlNDktOTQzZjIzMGQxODA4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/yoE5gGVb_mA"
+    },
+    {
+        "Name": "Şebeke",
+        "Description": "When a journalist is killed while investigating a top secret organization that has members in every unit of the state, Superintendent Ali begins to investigate the perpetrators of this murder and the organization.",
+        "ReleaseDate": "No information",
+        "Time": "No information",
+        "imdbb": "8.6",
+        "img": "https://m.media-amazon.com/images/M/MV5BZWVjYjc3NzgtNzcxNi00ZGVkLWJmMzEtZThkZTAzNjk0NTZiXkEyXkFqcGdeQXVyMTY1NzQ3OTM1._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/gUYUK7_aqMg"
+    },
+    {
+        "Name": "Gün Batmadan",
+        "Description": "Nine years after Jesse and Celine first met, they encounter each other again on the French leg of Jesse's book tour.",
+        "ReleaseDate": "2004",
+        "Time": "1h 20m",
+        "imdbb": "8.1",
+        "img": "https://m.media-amazon.com/images/M/MV5BMTQ1MjAwNTM5Ml5BMl5BanBnXkFtZTYwNDM0MTc3._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/8ZmMHW9V-VQ"
+    },
+    {
+        "Name": "Billur Köşk",
+        "Description": "Young Dorothy Gale and her dog Toto are swept away by a tornado from their Kansas farm to the magical Land of Oz, and embark on a quest with three new friends to see the Wizard, who can return her to her home and fulfill the others' wishes.",
+        "ReleaseDate": "1939",
+        "Time": "1h 42m",
+        "imdbb": "8.1",
+        "img": "https://m.media-amazon.com/images/M/MV5BNjUyMTc4MDExMV5BMl5BanBnXkFtZTgwNDg0NDIwMjE@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/MfrU9xclXeo"
+    },
+    {
+        "Name": "Into the Wild",
+        "Description": "After graduating from Emory University, top student and athlete Christopher McCandless abandons his possessions, gives his entire $24,000 savings account to charity and hitchhikes to Alaska to live in the wilderness. Along the way, Christopher encounters a series of characters th... Read all",
+        "ReleaseDate": "2007",
+        "Time": "2h 28m",
+        "imdbb": "8.1",
+        "img": "https://m.media-amazon.com/images/M/MV5BNzllOWU2OTgtYjJhYi00NmFjLTg2MzctNDA0Y2I2YWExYTE1XkEyXkFqcGdeQXVyNjYyMTYxMzk@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/XZG1FzyB8DI"
+    },
+    {
+        "Name": "Hayatımızın En Güzel Yılları",
+        "Description": "Four inseparable friends from childhood struggle in the best years of their lives when one grows up to become a prize fighter, second a police detective, third a nightclub runner and the fourth sets them all at loggerheads.",
+        "ReleaseDate": "1972",
+        "Time": "No information",
+        "imdbb": "5.8",
+        "img": "https://m.media-amazon.com/images/M/MV5BMDRjMjllNzQtM2I4OS00Mzc2LWEyNjAtOWIwOTQxOTBkNTQ3XkEyXkFqcGdeQXVyNzQ3MDYxNzE@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/X1Ux71iJ9i8"
+    },
+    {
+        "Name": "Şeytan",
+        "Description": "When a teenage girl is possessed by a mysterious entity, her mother seeks the help of two priests to save her daughter.",
+        "ReleaseDate": "1973",
+        "Time": "2h 2m",
+        "imdbb": "8.1",
+        "img": "https://m.media-amazon.com/images/M/MV5BNmQxNjdjNDctNDA5OS00NDg5LWEzNTgtNzYyYTMyMzAxYzczXkEyXkFqcGdeQXVyODA0MDg5NTg@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/wYy7igKD21A"
+    },
+    {
+        "Name": "Bugün Aslında Dündü",
+        "Description": "A narcissistic, self-centered weatherman finds himself in a time loop on Groundhog Day, and the day keeps repeating until he gets it right.",
+        "ReleaseDate": "1993",
+        "Time": "1h 41m",
+        "imdbb": "8.0",
+        "img": "https://m.media-amazon.com/images/M/MV5BZWIxNzM5YzQtY2FmMS00Yjc3LWI1ZjUtNGVjMjMzZTIxZTIxXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/GncQtURdcE4"
+    },
+    {
+        "Name": "Protesto - Nefret",
+        "Description": "24 hours in the lives of three young men in the French suburbs the day after a violent riot.",
+        "ReleaseDate": "1995",
+        "Time": "1h 38m",
+        "imdbb": "8.1",
+        "img": "https://m.media-amazon.com/images/M/MV5BODRkMWFkNjktNmZjZC00MDgzLWE2MWMtNmQzY2M5Zjk4ZDYyXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/Fx9ZmlH4U9c"
+    },
+    {
+        "Name": "İnanılmaz Aile",
+        "Description": "While trying to lead a quiet suburban life, a family of undercover superheroes are forced into action to save the world.",
+        "ReleaseDate": "2004",
+        "Time": "1h 55m",
+        "imdbb": "8.0",
+        "img": "https://m.media-amazon.com/images/M/MV5BZjgzNzdiZTQtODVhYi00ZTk4LTk2ZmEtYzFiYzdhYzliN2E3XkEyXkFqcGdeQXVyOTgxMDMxNTc@._V1_.jpg",
+        "Trailer": "https://www.youtube.com/embed/0_jBGKlHQVQ"
+    }
+    ,{
         "Name": "Galaksinin Koruyucuları 3",
         "Trailer": "https://www.youtube.com/embed/u6tu-P0xi_0",
         "Description": "Still reeling from the loss of Gamora, Peter Quill rallies his team to defend the universe and one of their own - a mission that could mean the end of the Guardians if not successful.",
