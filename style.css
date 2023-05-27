@@ -9,6 +9,7 @@ body{
 
 .card{
     border-radius: 40px;
+    
 }
 .time,
 .releaseTime,
@@ -94,3 +95,39 @@ body{
     font-family: 'Kanit', sans-serif;
     font-size: 30px;
 }  
+@media (max-width: 768px) {
+    .card-title{
+        font-family: 'Kanit', sans-serif;
+        font-size: 25px;
+        margin: 15px;
+    }
+    .card-text{
+        font-family: 'Kanit', sans-serif;
+        font-size: 16px;
+        margin: 8px;
+    }
+    .informations{
+        font-family: 'Kanit', sans-serif;
+        font-size: 15px;
+        margin: 25px;
+    }
+    .buttonContainer {
+        font-family: 'Kanit', sans-serif;
+        font-size: 15px;
+        margin: 7px;
+        margin-top: 0;
+        margin-bottom: 0;
+    }
+    .card-img-top{
+        width: 100% !important;
+        border-radius: 40px 40px 0px 0px !important;
+    }
+    .card{
+        width: 250px;
+    }
+    .btn{
+        padding: 10px;
+        border-radius: 15px;
+        margin-top: 8px;
+    }
+  }
